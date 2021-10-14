@@ -1,0 +1,10 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\Rajeev\Documents\GitHub\Lux-Design-2021-Solution\intermediate\main.py", line 32, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\Rajeev\Documents\GitHub\Lux-Design-2021-Solution\intermediate\agent.py", line 134, in agent
+    unit_to_resource_dict[unit.id] = resource_assignment
+UnboundLocalError: local variable 'resource_assignment' referenced before assignment
+Agent timed out
