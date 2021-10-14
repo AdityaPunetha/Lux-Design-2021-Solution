@@ -4,9 +4,12 @@ from lux.game_map import Cell, RESOURCE_TYPES
 from lux.constants import Constants
 from lux.game_constants import GAME_CONSTANTS
 from lux import annotate
+import logging
 
 DIRECTIONS = Constants.DIRECTIONS
 game_state = None
+logging.basicConfig(filename="agent.log", level=logging.INFO)
+build_location = None
 
 
 def get_resource_tiles(game_state, height, width):
@@ -47,6 +50,7 @@ def get_close_city(player, unit):
 
 def agent(observation, configuration):
     global game_state
+    global build_location
 
     ### Do not edit ###
     if observation["step"] == 0:
@@ -64,7 +68,20 @@ def agent(observation, configuration):
     opponent = game_state.players[(observation.player + 1) % 2]
     width, height = game_state.map.width, game_state.map.height
 
+    cities = player.cities.values()
+    city_tiles = []
+    for city in cities:
+        for c_tile in city.citytiles:
+            city_tiles.append(c_tile)
+
+    logging.info(f"{cities}")
+    logging.info(f"{city_tiles}")
+
     resource_tiles = get_resource_tiles(game_state, width, height)
+
+    build_city = False
+    if len(city_tiles) < 2:
+        build_city = True
 
     # we iterate over all our units and do something with them
     for unit in player.units:
@@ -74,6 +91,33 @@ def agent(observation, configuration):
                 if closest_resource_tile is not None:
                     actions.append(unit.move(unit.pos.direction_to(closest_resource_tile.pos)))
             else:
+                if build_city:
+                    logging.info(f"build")
+                    if build_location is None:
+                        empty_near = get_close_city(player, unit)
+                        dirs = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+                        for d in dirs:
+                            try:
+                                possible_empty_tile = game_state.map.get_cell(empty_near.pos.x + d[0],
+                                                                              empty_near.pos.y + d[1])
+                                logging.info(f"{observation['step']}: checking: {possible_empty_tile}")
+                                if possible_empty_tile.resource is None and possible_empty_tile.road == 0 and possible_empty_tile.citytile is None:
+                                    build_location = possible_empty_tile
+                                    logging.info(f"{observation['step']}: Found: {possible_empty_tile}")
+                                    break
+                            except Exception as e:
+                                logging.warning(f"{observation['step']}: while search: {str(e)}")
+                    elif unit.pos == build_location.pos:
+                        action = unit.build_city()
+                        actions.append(action)
+
+                        build_city = False
+                        build_location = None
+                        continue
+                    else:
+                        logging.info(f"{observation['step']}: Navigating:")
+                        actions.append(unit.move(unit.pos.direction_to(build_location.pos)))
+                        continue
                 # if unit is a worker and there is no cargo space left, and we have cities, lets return to them
                 if len(player.cities) > 0:
 
