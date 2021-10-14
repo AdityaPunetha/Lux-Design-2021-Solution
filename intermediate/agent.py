@@ -1,5 +1,6 @@
 import logging
 import math
+import numpy as np
 
 from lux.constants import Constants
 from lux.game import Game
@@ -100,15 +101,15 @@ def agent(observation, configuration):
     resource_tiles = get_resource_tiles(game_state, width, height)
     workers = [u for u in player.units if u.is_worker()]
     for w in workers:
-        if w not in unit_to_city_dict:
-            logging.info(f"Found worker unaccounted for {w}")
+        if w.id not in unit_to_city_dict:
+            logging.info(f"Found worker unaccounted for {w.id}")
             city_assignment = get_close_city(player, w)
-            unit_to_city_dict[w] = city_assignment
+            unit_to_city_dict[w.id] = city_assignment
     for w in workers:
-        if w not in unit_to_resource_dict:
-            logging.info(f"Found worker w/o resource {w}")
+        if w.id not in unit_to_resource_dict:
+            logging.info(f"Found worker w/o resource {w.id}")
             resource_assignment = get_close_resource(w, resource_tiles, player)
-            unit_to_resource_dict[w] = resource_assignment
+            unit_to_resource_dict[w.id] = resource_assignment
     logging.info(f" worker :{workers}")
     cities = player.cities.values()
     city_tiles = []
@@ -124,13 +125,13 @@ def agent(observation, configuration):
     for unit in player.units:
         if unit.is_worker() and unit.can_act():
             if unit.get_cargo_space_left() > 0:
-                intended_resource = unit_to_resource_dict[unit]
+                intended_resource = unit_to_resource_dict[unit.id]
                 cell = game_state.map.get_cell(intended_resource.pos.x, intended_resource.pos.y)
                 if cell.has_resource():
                     actions.append(unit.move(unit.pos.direction_to(intended_resource.pos)))
                 else:
                     intended_resource = get_close_resource(unit, resource_tiles, player)
-                    unit_to_resource_dict[unit] = resource_assignment
+                    unit_to_resource_dict[unit.id] = resource_assignment
                     actions.append(unit.move(unit.pos.direction_to(intended_resource.pos)))
             else:
                 if build_city:
@@ -145,16 +146,42 @@ def agent(observation, configuration):
                         continue
                     else:
                         logging.info(f"{observation['step']}: Navigating:")
-                        actions.append(unit.move(unit.pos.direction_to(build_location.pos)))
+                        # actions.append(unit.move(unit.pos.direction_to(build_location.pos)))
+                        dir_diff = (build_location.pos.x - unit.pos.x, build_location.pos.y - unit.pos.y)
+                        xdiff, ydiff = dir_diff
+                        if abs(ydiff) > abs(xdiff):
+                            check_tile = game_state.map.get_cell(unit.pos.x, unit.pos.y + np.sign(ydiff))
+                            if check_tile.citytile is None:
+                                if np.sign(ydiff) == 1:
+                                    actions.append(unit.move('s'))
+                                else:
+                                    actions.append(unit.move('n'))
+                            else:
+                                if np.sign(xdiff) == 1:
+                                    actions.append(unit.move('e'))
+                                else:
+                                    actions.append(unit.move('w'))
+                        else:
+                            check_tile = game_state.map.get_cell(unit.pos.x + np.sign(xdiff), unit.pos.y)
+                            if check_tile.citytile is None:
+                                if np.sign(xdiff) == 1:
+                                    actions.append(unit.move('e'))
+                                else:
+                                    actions.append(unit.move('w'))
+                            else:
+                                if np.sign(ydiff) == 1:
+                                    actions.append(unit.move('s'))
+                                else:
+                                    actions.append(unit.move('n'))
                         continue
                 # if unit is a worker and there is no cargo space left, and we have cities, lets return to them
                 elif len(player.cities) > 0:
-                    if unit in unit_to_city_dict and unit_to_city_dict[unit] in city_tiles:
-                        move_dir = unit.pos.direction_to(unit_to_city_dict[unit].pos)
+                    if unit.id in unit_to_city_dict and unit_to_city_dict[unit.id] in city_tiles:
+                        move_dir = unit.pos.direction_to(unit_to_city_dict[unit.id].pos)
                         actions.append(unit.move(move_dir))
                     else:
-                        unit_to_city_dict[unit] = get_close_city(player, unit)
-                        move_dir = unit.pos.direction_to(unit_to_city_dict[unit].pos)
+                        unit_to_city_dict[unit.id] = get_close_city(player, unit)
+                        move_dir = unit.pos.direction_to(unit_to_city_dict[unit.id].pos)
                         actions.append(unit.move(move_dir))
     # you can add debug annotations using the functions in the annotate object
     # actions.append(annotate.circle(0, 0))
