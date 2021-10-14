@@ -1,0 +1,1809 @@
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF8F70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF8F70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF8F70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E9D160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E9D1F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF4370>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF4370>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF4370>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF4580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF46A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFC0D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFC0D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFC0D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFC220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFC340>]
+INFO:root:2: checking: <lux.game_map.Cell object at 0x000001F181EF25E0>
+INFO:root:2: Found: <lux.game_map.Cell object at 0x000001F181EF25E0>
+INFO:root:2: Navigating:
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF8910>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF8910>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF8910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF8AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF8AF0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC9D00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC9D00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC9D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC9C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC9D30>]
+INFO:root:4: Navigating:
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E833A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E833A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E833A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E839A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF00A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC43D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC43D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC43D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC4400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC44F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E9DCA0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E9DCA0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E9DCA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E9DE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E9D580>, <lux.game_objects.CityTile object at 0x000001F181E9D880>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFB2E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFB2E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFB2E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFB430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFB580>, <lux.game_objects.CityTile object at 0x000001F181EFB640>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFEE50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFEE50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFEE50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFEA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFE0D0>, <lux.game_objects.CityTile object at 0x000001F181EFECD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF8940>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF8940>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF8940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF80D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF8250>, <lux.game_objects.CityTile object at 0x000001F181EF82B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF0B20>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF0B20>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF0B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF0D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF0D90>, <lux.game_objects.CityTile object at 0x000001F181EF0E50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBEF70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBEF70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBEF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF4D30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF4E50>, <lux.game_objects.CityTile object at 0x000001F181EF4580>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE9700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE9700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE9700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE99D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE9A60>, <lux.game_objects.CityTile object at 0x000001F181EE9B20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC21C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC21C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC21C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC22B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC2520>, <lux.game_objects.CityTile object at 0x000001F181EC25E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC49A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC49A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC49A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC4880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC47F0>, <lux.game_objects.CityTile object at 0x000001F181EC4940>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EAB4F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EAB4F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EAB4F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAB6D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAB9A0>, <lux.game_objects.CityTile object at 0x000001F181EABA60>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E8E5E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E8E5E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E8E5E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E8E820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E8EA90>, <lux.game_objects.CityTile object at 0x000001F181E8ED90>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF7640>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF7640>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF7640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF77F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF7A60>, <lux.game_objects.CityTile object at 0x000001F181EF7B20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE48E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE48E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE48E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE4D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE4C70>, <lux.game_objects.CityTile object at 0x000001F181EE4D30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB5610>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB5610>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB5610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB55B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB5700>, <lux.game_objects.CityTile object at 0x000001F181EB57C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBAF70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBAF70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBAF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF8760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF8D30>, <lux.game_objects.CityTile object at 0x000001F181EF8160>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF4D90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF4D90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF4D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF0CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF0D60>, <lux.game_objects.CityTile object at 0x000001F181EF0E20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBE4F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBE4F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBE4F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBEBB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBEDC0>, <lux.game_objects.CityTile object at 0x000001F181EBE6D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC9130>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC9130>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC9130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC9A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC9820>, <lux.game_objects.CityTile object at 0x000001F181EC9AC0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBC940>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBC940>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBC940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBCA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBCA00>, <lux.game_objects.CityTile object at 0x000001F181EBCB50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE9640>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE9640>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE9640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE9370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE9490>, <lux.game_objects.CityTile object at 0x000001F181EE9670>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC29D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC29D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC29D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC2730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC2AC0>, <lux.game_objects.CityTile object at 0x000001F181EDE310>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC4040>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC4040>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC4040>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC4730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC44C0>, <lux.game_objects.CityTile object at 0x000001F181EC40A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB9D30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB9D30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB9D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EABF40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EABDF0>, <lux.game_objects.CityTile object at 0x000001F181EABC40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E8E130>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E8E130>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E8E130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E8EBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E8E5B0>, <lux.game_objects.CityTile object at 0x000001F181E8E580>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE1940>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE1940>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE1940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE1E50>, <lux.game_objects.CityTile object at 0x000001F181EE1F10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB3970>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB3970>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB3970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB39D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB3C40>, <lux.game_objects.CityTile object at 0x000001F181EB3D00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF56D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF56D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF56D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF5A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF5970>, <lux.game_objects.CityTile object at 0x000001F181EF5A30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE4370>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE4370>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE4370>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE42B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE4790>, <lux.game_objects.CityTile object at 0x000001F181EE49D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDA7C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDA7C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDA7C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDA8E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDAAF0>, <lux.game_objects.CityTile object at 0x000001F181EDABB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFB8E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFB8E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFB8E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFBCA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFBBB0>, <lux.game_objects.CityTile object at 0x000001F181EFB2B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA9EE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA9EE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA9EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA9AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA9B50>, <lux.game_objects.CityTile object at 0x000001F181EA9C10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBAA60>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBAA60>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBAA60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBAD00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBACD0>, <lux.game_objects.CityTile object at 0x000001F181EBA850>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF4970>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF4970>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF4970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDE100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDE1C0>, <lux.game_objects.CityTile object at 0x000001F181EDE280>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F039D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F039D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F039D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F03220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F03580>, <lux.game_objects.CityTile object at 0x000001F181F03FA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181C01E50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181C01E50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181C01E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181C027F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB7AF0>, <lux.game_objects.CityTile object at 0x000001F181EB7BB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB0DF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB0DF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB0DF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE3220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE3190>, <lux.game_objects.CityTile object at 0x000001F181EE3130>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED7700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED7700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED7700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED7E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED78E0>, <lux.game_objects.CityTile object at 0x000001F181ED79A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EAD940>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EAD940>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EAD940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EADD60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EADBB0>, <lux.game_objects.CityTile object at 0x000001F181EADC70>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBC820>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBC820>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBC820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBC250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBCCA0>, <lux.game_objects.CityTile object at 0x000001F181EBCDF0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDF190>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDF190>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDF190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDF340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDF6D0>, <lux.game_objects.CityTile object at 0x000001F181EDF490>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED2A60>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED2A60>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED2A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED2F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED2BB0>, <lux.game_objects.CityTile object at 0x000001F181ED2C70>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB95E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB95E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB95E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB9880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB9790>, <lux.game_objects.CityTile object at 0x000001F181EB9B80>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F07FA0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F07FA0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F07FA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F077F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F07D90>, <lux.game_objects.CityTile object at 0x000001F181F07A00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECA940>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECA940>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECA940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECA910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECA9A0>, <lux.game_objects.CityTile object at 0x000001F181ECAA60>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E8E7F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E8E7F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E8E7F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E8EE50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E8ED60>, <lux.game_objects.CityTile object at 0x000001F181E8EAF0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F05790>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F05790>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F05790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F05F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F05880>, <lux.game_objects.CityTile object at 0x000001F181F05F10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB43A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB43A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB43A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB43D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB4A60>, <lux.game_objects.CityTile object at 0x000001F181EB4670>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB18B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB18B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB1B20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB1F70>, <lux.game_objects.CityTile object at 0x000001F181EB1F10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEF520>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEF520>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEF520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEF550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEF730>, <lux.game_objects.CityTile object at 0x000001F181EEF7F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E9DAF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E9DAF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E9DAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0A220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0A430>, <lux.game_objects.CityTile object at 0x000001F181F0A4F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFBDF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFBDF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFBDF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFB760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFBCA0>, <lux.game_objects.CityTile object at 0x000001F181EFB490>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA9970>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA9970>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA9970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA90A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA9370>, <lux.game_objects.CityTile object at 0x000001F181EA98E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDE220>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDE220>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDE220>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDE250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EABC70>, <lux.game_objects.CityTile object at 0x000001F181EABE50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEBB80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEBB80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEBB80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEB610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEB790>, <lux.game_objects.CityTile object at 0x000001F181EEB040>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F038E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F038E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F038E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F03670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F03A00>, <lux.game_objects.CityTile object at 0x000001F181F03700>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0B1F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0B1F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0B1F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0B580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0B640>, <lux.game_objects.CityTile object at 0x000001F181F0B280>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEDE50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEDE50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEDE50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEDA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EED580>, <lux.game_objects.CityTile object at 0x000001F181EEDD60>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF7430>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF7430>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF7430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF7DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF7160>, <lux.game_objects.CityTile object at 0x000001F181EF7CD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EAD520>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EAD520>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EAD520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAD670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAD730>, <lux.game_objects.CityTile object at 0x000001F181EAD7C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EAC0A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EAC0A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EAC0A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAC280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAC5B0>, <lux.game_objects.CityTile object at 0x000001F181EAC670>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA3130>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA3130>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA3130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA3EB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA3D90>, <lux.game_objects.CityTile object at 0x000001F181EA3520>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFE790>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFE790>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFE790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFE520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFEF70>, <lux.game_objects.CityTile object at 0x000001F181EFECA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB03D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB03D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB03D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB0A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB0AF0>, <lux.game_objects.CityTile object at 0x000001F181F10040>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F10BE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F10BE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F10BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F10AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F10D90>, <lux.game_objects.CityTile object at 0x000001F181F10F40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBE250>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBE250>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBE250>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBEEB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECAB20>, <lux.game_objects.CityTile object at 0x000001F181ECAE20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED22E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED22E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED22E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED2460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED2610>, <lux.game_objects.CityTile object at 0x000001F181ED2580>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDC460>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDC460>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDC460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDC550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDC8E0>, <lux.game_objects.CityTile object at 0x000001F181EDCAC0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F05100>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F05100>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F05100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F05EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F05430>, <lux.game_objects.CityTile object at 0x000001F181F05490>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECD460>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECD460>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECD460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECD8B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECD880>, <lux.game_objects.CityTile object at 0x000001F181ECD940>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB4A90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB4A90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB4A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB4340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB4AC0>, <lux.game_objects.CityTile object at 0x000001F181EB4A30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB1070>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB1070>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB1070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB12E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB1400>, <lux.game_objects.CityTile object at 0x000001F181EB1D00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA8A90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA8A90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA8A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA8F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA8190>, <lux.game_objects.CityTile object at 0x000001F181EA83A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EABDF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EABDF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EABDF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAB880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC2EB0>, <lux.game_objects.CityTile object at 0x000001F181EC2820>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF2D90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF2D90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF2D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF2280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF2220>, <lux.game_objects.CityTile object at 0x000001F181EF2520>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E9D7C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E9D7C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E9D7C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE13A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE1A30>, <lux.game_objects.CityTile object at 0x000001F181EE1A60>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEB4C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEB4C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEB4C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEB7F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEBA00>, <lux.game_objects.CityTile object at 0x000001F181EEBCD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA9C40>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA9C40>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA9C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA9CD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA9880>, <lux.game_objects.CityTile object at 0x000001F181EA9BE0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0ABB0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0ABB0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0ABB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0AC40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0AEE0>, <lux.game_objects.CityTile object at 0x000001F181F0A070>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDA610>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDA610>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDA610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDA5B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE37F0>, <lux.game_objects.CityTile object at 0x000001F181EE3280>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F03B20>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F03B20>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F03B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F038B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F03490>, <lux.game_objects.CityTile object at 0x000001F181EDE910>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECA5B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECA5B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECA5B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECA370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECAD90>, <lux.game_objects.CityTile object at 0x000001F181F144C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECF370>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECF370>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECF370>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECF340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECFDF0>, <lux.game_objects.CityTile object at 0x000001F181ECF790>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181C0BE80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181C0BE80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181C0BE80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAC730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAC700>, <lux.game_objects.CityTile object at 0x000001F181EAC820>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EADB20>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EADB20>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EADB20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAD850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181C01BE0>, <lux.game_objects.CityTile object at 0x000001F181EB33D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFE700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFE700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFE700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFE0A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFEEE0>, <lux.game_objects.CityTile object at 0x000001F181EFEA60>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB2C70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB2C70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB2C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA3670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA3EB0>, <lux.game_objects.CityTile object at 0x000001F181EA3AC0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F18A60>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F18A60>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F18A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F18B50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F18DC0>, <lux.game_objects.CityTile object at 0x000001F181F18BB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB0C10>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB0C10>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB0C10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F09D30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F092E0>, <lux.game_objects.CityTile object at 0x000001F181F093A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED2BB0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED2BB0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED2BB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED2640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED2BE0>, <lux.game_objects.CityTile object at 0x000001F181ED28B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBE190>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBE190>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBE190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBEE80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECDF10>, <lux.game_objects.CityTile object at 0x000001F181ECDFA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB7160>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB7160>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB7160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB7190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB77F0>, <lux.game_objects.CityTile object at 0x000001F181EB7940>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF0160>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF0160>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF0160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB1850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB1AC0>, <lux.game_objects.CityTile object at 0x000001F181EB1370>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE1490>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE1490>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE1E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F05AF0>, <lux.game_objects.CityTile object at 0x000001F181F056A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB9250>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB9250>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB9250>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB91C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB9400>, <lux.game_objects.CityTile object at 0x000001F181EB9310>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB4CA0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB4CA0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB4CA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB42B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB4CD0>, <lux.game_objects.CityTile object at 0x000001F181EB40D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F123D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F123D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F123D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAB700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAB940>, <lux.game_objects.CityTile object at 0x000001F181EAB190>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA8850>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA8850>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA8850>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA8370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA8D30>, <lux.game_objects.CityTile object at 0x000001F181EA8EE0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE6640>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE6640>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE6640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE65B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE6C10>, <lux.game_objects.CityTile object at 0x000001F181EE6550>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB5D00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB5D00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB5D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEB400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEBA00>, <lux.game_objects.CityTile object at 0x000001F181EEB1C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFB7F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFB7F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFB7F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFB580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFB070>, <lux.game_objects.CityTile object at 0x000001F181EFB310>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0A0D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0A0D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0A0D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0A100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0A220>, <lux.game_objects.CityTile object at 0x000001F181F0AD30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECF850>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECF850>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECF850>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDAEB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDA640>, <lux.game_objects.CityTile object at 0x000001F181EDA5E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EAC8B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EAC8B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EAC8B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EACD90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE38B0>, <lux.game_objects.CityTile object at 0x000001F181EE3C10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED5C70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED5C70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED5C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED5CD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED5C10>, <lux.game_objects.CityTile object at 0x000001F181ED5100>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA54C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA54C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA54C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA5CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181C02E80>, <lux.game_objects.CityTile object at 0x000001F181EF8850>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F14AF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F14AF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F14AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F14C10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F14A60>, <lux.game_objects.CityTile object at 0x000001F181F14520>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EAD3D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EAD3D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EAD3D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EADA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAD2E0>, <lux.game_objects.CityTile object at 0x000001F181EADFD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0DA30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0DA30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0DA30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0DA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0D190>, <lux.game_objects.CityTile object at 0x000001F181F0DD30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC4310>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC4310>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC4310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC4280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB26A0>, <lux.game_objects.CityTile object at 0x000001F181EB2910>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA3730>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA3730>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA3730>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA3DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA3760>, <lux.game_objects.CityTile object at 0x000001F181EA3880>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EED340>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EED340>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EED340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEDDC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EED460>, <lux.game_objects.CityTile object at 0x000001F181EEDFD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB36D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB36D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB36D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB3D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB3160>, <lux.game_objects.CityTile object at 0x000001F181ED2640>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB9EB0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB9EB0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB9EB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB9670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB9850>, <lux.game_objects.CityTile object at 0x000001F181EB9D90>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB1550>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB1550>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB1550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB1160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB1DF0>, <lux.game_objects.CityTile object at 0x000001F181EB1CA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F22520>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F22520>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F22520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F22A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F22EE0>, <lux.game_objects.CityTile object at 0x000001F181F22FD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0B3A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0B3A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0B3A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0B2B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0B550>, <lux.game_objects.CityTile object at 0x000001F181F0BF10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0FC70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0FC70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0FC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0FB80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E9DA90>, <lux.game_objects.CityTile object at 0x000001F181E9D8E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF74F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF74F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF74F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF7E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB7DF0>, <lux.game_objects.CityTile object at 0x000001F181EB7190>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F05190>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F05190>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F05190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F05940>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F055B0>, <lux.game_objects.CityTile object at 0x000001F181F05A30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA8520>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA8520>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA8520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA8C70>, <lux.game_objects.CityTile object at 0x000001F181EA87F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F24D00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F24D00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F24D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE3B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE3C70>, <lux.game_objects.CityTile object at 0x000001F181EE31C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F193A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F193A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F193A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F19160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F19700>, <lux.game_objects.CityTile object at 0x000001F181F19670>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0A310>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0A310>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0A310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFBC70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFBB80>, <lux.game_objects.CityTile object at 0x000001F181EFB190>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EAB070>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EAB070>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EAB070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EABB50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAB490>, <lux.game_objects.CityTile object at 0x000001F181EABAC0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB2D90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB2D90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB2D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB2430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE66A0>, <lux.game_objects.CityTile object at 0x000001F181EE63A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB53A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB53A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB53A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F10700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F102E0>, <lux.game_objects.CityTile object at 0x000001F181F10940>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F12310>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F12310>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F12310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F120D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F12B50>, <lux.game_objects.CityTile object at 0x000001F181F12D00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E8E6A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E8E6A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E8E6A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E8E820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E8E970>, <lux.game_objects.CityTile object at 0x000001F181E8E460>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F14E80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F14E80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F14E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F14910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F14850>, <lux.game_objects.CityTile object at 0x000001F181F14E50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF2970>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF2970>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF2970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF2490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF2FA0>, <lux.game_objects.CityTile object at 0x000001F181EF2790>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA27C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA27C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA27C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA2130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA9400>, <lux.game_objects.CityTile object at 0x000001F181EA9B20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA5790>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA5790>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA5790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA5310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA57F0>, <lux.game_objects.CityTile object at 0x000001F181EA5760>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F1DB80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F1DB80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F1DB80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB3F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB37F0>, <lux.game_objects.CityTile object at 0x000001F181EB3AF0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F20A60>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F20A60>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F20A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED93A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED9A60>, <lux.game_objects.CityTile object at 0x000001F181ED9490>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F092E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F092E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F092E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F09040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F09580>, <lux.game_objects.CityTile object at 0x000001F181F09BB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F03820>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F03820>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F03820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F03250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F03730>, <lux.game_objects.CityTile object at 0x000001F181F033D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0BA00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0BA00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0BA00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0BF70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0B790>, <lux.game_objects.CityTile object at 0x000001F181F0B4F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDE1C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDE1C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDE1C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDE430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDE760>, <lux.game_objects.CityTile object at 0x000001F181EDED00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2A310>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2A310>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2A310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2A430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F2AEB0>, <lux.game_objects.CityTile object at 0x000001F181F2AFD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBE2E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBE2E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBE2E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBE850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBE160>, <lux.game_objects.CityTile object at 0x000001F181EBE490>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF7160>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF7160>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF7160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF7E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF7670>, <lux.game_objects.CityTile object at 0x000001F181EF7190>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB0700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB0700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB0700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB0AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F10700>, <lux.game_objects.CityTile object at 0x000001F181F10D90>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE3190>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE3190>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE3190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE3220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE3AC0>, <lux.game_objects.CityTile object at 0x000001F181EE3460>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFC6D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFC6D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFC6D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFCE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFC280>, <lux.game_objects.CityTile object at 0x000001F181EFC550>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE18B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE18B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED2D30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED2FD0>, <lux.game_objects.CityTile object at 0x000001F181ED2EB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2CC10>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2CC10>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2CC10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2CDF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F2C820>, <lux.game_objects.CityTile object at 0x000001F181F2C8E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECDF40>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECDF40>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECDF40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECD910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECD880>, <lux.game_objects.CityTile object at 0x000001F181ECD250>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBAB50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBAB50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBAB50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBA520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBABE0>, <lux.game_objects.CityTile object at 0x000001F181EBA3A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F144F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F144F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F144F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE6AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE6F70>, <lux.game_objects.CityTile object at 0x000001F181EE6610>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0A160>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0A160>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0A160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0A190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0A9D0>, <lux.game_objects.CityTile object at 0x000001F181F0A100>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB5B80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB5B80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB5B80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB5C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB52E0>, <lux.game_objects.CityTile object at 0x000001F181EB5760>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F12670>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F12670>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F12670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F12A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F12490>, <lux.game_objects.CityTile object at 0x000001F181F12A00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181C02E80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181C02E80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181C02E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBC790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBC850>, <lux.game_objects.CityTile object at 0x000001F181EBCB80>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDCE20>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDCE20>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDCE20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDC100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDC1C0>, <lux.game_objects.CityTile object at 0x000001F181EDC6D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA53A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA53A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA53A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA56D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA50D0>, <lux.game_objects.CityTile object at 0x000001F181EA5970>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F1BD00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F1BD00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F1BD00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F1B9A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F1BCD0>, <lux.game_objects.CityTile object at 0x000001F181F1B2E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F26340>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F26340>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F26340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F26B20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F26F10>, <lux.game_objects.CityTile object at 0x000001F181F300A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA3220>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA3220>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA3220>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA3BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA3430>, <lux.game_objects.CityTile object at 0x000001F181EA35B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F03D30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F03D30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F03D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F034F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F03970>, <lux.game_objects.CityTile object at 0x000001F181EC4F40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDFAF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDFAF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDFAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDF1F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED5B20>, <lux.game_objects.CityTile object at 0x000001F181ED52E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF7850>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF7850>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF7850>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF7130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF7880>, <lux.game_objects.CityTile object at 0x000001F181EF7E50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBE5E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBE5E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBE5E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBE670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBE580>, <lux.game_objects.CityTile object at 0x000001F181EBEEB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EACAF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EACAF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EACAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAC700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EACE20>, <lux.game_objects.CityTile object at 0x000001F181EAC070>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F1D730>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F1D730>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F1D730>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F1DE80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F1DF10>, <lux.game_objects.CityTile object at 0x000001F181F1DCA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F20640>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F20640>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F20640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE9A60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE92E0>, <lux.game_objects.CityTile object at 0x000001F181EE9790>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB9820>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB9820>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB9820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB9B20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE3370>, <lux.game_objects.CityTile object at 0x000001F181EE3AC0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB0220>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB0220>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB0220>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB0100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB0F40>, <lux.game_objects.CityTile object at 0x000001F181EB0940>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F351C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F351C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F351C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F35160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F35B80>, <lux.game_objects.CityTile object at 0x000001F181F35C40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2C9A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2C9A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2C9A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2C700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F2C2E0>, <lux.game_objects.CityTile object at 0x000001F181F2C190>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECDDF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECDDF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECDDF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECD670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECDA00>, <lux.game_objects.CityTile object at 0x000001F181EE19D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBA3D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBA3D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBA3D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBA370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBA730>, <lux.game_objects.CityTile object at 0x000001F181EBA400>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF5BE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF5BE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF5BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF5AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF54C0>, <lux.game_objects.CityTile object at 0x000001F181EF5CA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F22820>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F22820>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F22820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F22CD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0A730>, <lux.game_objects.CityTile object at 0x000001F181F0A190>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB5EE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB5EE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB5EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB5670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB5820>, <lux.game_objects.CityTile object at 0x000001F181EB5280>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEFEE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEFEE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEFEE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEF790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEFAF0>, <lux.game_objects.CityTile object at 0x000001F181EEF730>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2E670>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2E670>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2E670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF4760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF4640>, <lux.game_objects.CityTile object at 0x000001F181EF4BB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F058B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F058B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F058B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F05B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F05130>, <lux.game_objects.CityTile object at 0x000001F181F05F70>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F188B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F188B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F188B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F18F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F181F0>, <lux.game_objects.CityTile object at 0x000001F181F18700>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F24790>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F24790>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F24790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F247C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEB280>, <lux.game_objects.CityTile object at 0x000001F181EEB070>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F1B1C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F1B1C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F1B1C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F1B190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F10D30>, <lux.game_objects.CityTile object at 0x000001F181F104F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA37F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA37F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA37F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECFDC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECFCA0>, <lux.game_objects.CityTile object at 0x000001F181ECFBB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA99A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA99A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA99A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA9130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA9FD0>, <lux.game_objects.CityTile object at 0x000001F181EA95B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F3C1F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F3C1F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F3C1F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F3C0A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F3C6A0>, <lux.game_objects.CityTile object at 0x000001F181F3C760>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F06EE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F06EE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F06EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F06C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F06C10>, <lux.game_objects.CityTile object at 0x000001F181F06040>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDF220>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDF220>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDF220>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDFA90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDF7C0>, <lux.game_objects.CityTile object at 0x000001F181EDF5B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB3EE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB3EE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB3EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB3850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB3670>, <lux.game_objects.CityTile object at 0x000001F181EB3B20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC46A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC46A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC46A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC4E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC4730>, <lux.game_objects.CityTile object at 0x000001F181EC4880>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDE880>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDE880>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDE880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDEEE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDE550>, <lux.game_objects.CityTile object at 0x000001F181EB4FD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F33B50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F33B50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F33B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F33C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB9E80>, <lux.game_objects.CityTile object at 0x000001F181EB9880>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB0D90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB0D90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB0D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB0910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC2F10>, <lux.game_objects.CityTile object at 0x000001F181EC2A30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECAAC0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECAAC0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECAAC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECAC40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECA9A0>, <lux.game_objects.CityTile object at 0x000001F181ECA8B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED72B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED72B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED72B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFCAC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFC580>, <lux.game_objects.CityTile object at 0x000001F181EFCB50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F091C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F091C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F091C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F09D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F09700>, <lux.game_objects.CityTile object at 0x000001F181F09220>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBA7F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBA7F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBA7F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBAF40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EADFA0>, <lux.game_objects.CityTile object at 0x000001F181EADD90>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0DA60>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0DA60>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0DA60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0D730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0D430>, <lux.game_objects.CityTile object at 0x000001F181F0D7F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE4D90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE4D90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE4D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE4B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE4790>, <lux.game_objects.CityTile object at 0x000001F181EE45E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2A1F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2A1F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2A1F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2A7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F2A580>, <lux.game_objects.CityTile object at 0x000001F181F2A4F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEF2B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEF2B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEF2B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEFCA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEFA60>, <lux.game_objects.CityTile object at 0x000001F181EEF6D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E9DDF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E9DDF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E9DDF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E9DA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFBA60>, <lux.game_objects.CityTile object at 0x000001F181EFB580>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F3C940>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F3C940>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F3C940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F3CDF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F3CEE0>, <lux.game_objects.CityTile object at 0x000001F181F3CC70>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F18D90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F18D90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F18D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F18F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F182E0>, <lux.game_objects.CityTile object at 0x000001F181F18940>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB7E50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB7E50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB7E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBC310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBC4C0>, <lux.game_objects.CityTile object at 0x000001F181EBC6A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEB460>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEB460>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEB460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F42520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F42430>, <lux.game_objects.CityTile object at 0x000001F181F424F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F127F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F127F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F127F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F12DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F12460>, <lux.game_objects.CityTile object at 0x000001F181F12B20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F16820>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F16820>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F16820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F164F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECFC70>, <lux.game_objects.CityTile object at 0x000001F181ECF2E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F24F10>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F24F10>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F24F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F24E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F24BE0>, <lux.game_objects.CityTile object at 0x000001F181F24B20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB9040>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB9040>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB9040>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB9BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB93A0>, <lux.game_objects.CityTile object at 0x000001F181EB92E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F39A00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F39A00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F39A00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F399D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F39520>, <lux.game_objects.CityTile object at 0x000001F181F391C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F44B50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F44B50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F44B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F44B20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB3D90>, <lux.game_objects.CityTile object at 0x000001F181EB37F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED94C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED94C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED94C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED9130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED9E80>, <lux.game_objects.CityTile object at 0x000001F181ED93A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2E400>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2E400>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2E400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2E3A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA52E0>, <lux.game_objects.CityTile object at 0x000001F181EA5310>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDC700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDC700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDC700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDC7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDC610>, <lux.game_objects.CityTile object at 0x000001F181EDC2B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB0910>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB0910>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB0910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB0430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB06D0>, <lux.game_objects.CityTile object at 0x000001F181EB0580>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC2100>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC2100>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC2100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC24C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF0910>, <lux.game_objects.CityTile object at 0x000001F181EF0970>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181E8E0A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181E8E0A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181E8E0A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E8E0D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E8E490>, <lux.game_objects.CityTile object at 0x000001F181E8E2B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB28B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB28B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB28B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB2820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB2850>, <lux.game_objects.CityTile object at 0x000001F181EB2C40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EED7F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EED7F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EED7F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE36D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE3A90>, <lux.game_objects.CityTile object at 0x000001F181EE3F40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0DEB0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0DEB0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0DEB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0D6A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0D280>, <lux.game_objects.CityTile object at 0x000001F181F0D0A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED7A00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED7A00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED7A00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED7A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE4B80>, <lux.game_objects.CityTile object at 0x000001F181EE4130>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA2790>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA2790>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA2790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA26D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA2F40>, <lux.game_objects.CityTile object at 0x000001F181EA21F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECF070>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECF070>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECF070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECF0A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECFCD0>, <lux.game_objects.CityTile object at 0x000001F181ECFF40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECDC70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECDC70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECDC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E9DC10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E9D3D0>, <lux.game_objects.CityTile object at 0x000001F181E9DE20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F405B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F405B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F405B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC9A60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC98E0>, <lux.game_objects.CityTile object at 0x000001F181EC9C70>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA8D30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA8D30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA8D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA8BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA8070>, <lux.game_objects.CityTile object at 0x000001F181EA8EB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDAA30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDAA30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDAA30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDA0A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF4640>, <lux.game_objects.CityTile object at 0x000001F181EF40A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F18D30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F18D30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F18D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F180A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F18DF0>, <lux.game_objects.CityTile object at 0x000001F181F189A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F3C970>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F3C970>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F3C970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F3CA90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F054F0>, <lux.game_objects.CityTile object at 0x000001F181F05D90>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEB790>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEB790>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEB790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEB370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFE880>, <lux.game_objects.CityTile object at 0x000001F181EFE550>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F20490>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F20490>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F20490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F20100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F20D00>, <lux.game_objects.CityTile object at 0x000001F181F20160>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F4ECD0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F4ECD0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F4ECD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F4EE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB5CD0>, <lux.game_objects.CityTile object at 0x000001F181EB5040>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F42580>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F42580>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F42580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F426D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F425E0>, <lux.game_objects.CityTile object at 0x000001F181F42430>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F44E50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F44E50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F44E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F44DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F44E20>, <lux.game_objects.CityTile object at 0x000001F181F44100>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA3430>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA3430>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA3430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA3340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA3F10>, <lux.game_objects.CityTile object at 0x000001F181EA38E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA90D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA90D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA90D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA9280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA9D00>, <lux.game_objects.CityTile object at 0x000001F181EA9700>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDC670>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDC670>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDC670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDC310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDC910>, <lux.game_objects.CityTile object at 0x000001F181F10FD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F14490>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F14490>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F14490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F14760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F14430>, <lux.game_objects.CityTile object at 0x000001F181F14700>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC2B50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC2B50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC2B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC23D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDFBE0>, <lux.game_objects.CityTile object at 0x000001F181EDFB80>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED5D30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED5D30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED5D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED5F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED5940>, <lux.game_objects.CityTile object at 0x000001F181ED5EE0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F35A30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F35A30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F35A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F35EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F35580>, <lux.game_objects.CityTile object at 0x000001F181F352B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F47A60>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F47A60>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F47A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F47F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F47C70>, <lux.game_objects.CityTile object at 0x000001F181F47640>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0A700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0A700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0A700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0A730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F07370>, <lux.game_objects.CityTile object at 0x000001F181F07BE0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F37760>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F37760>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F37760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F37C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED75B0>, <lux.game_objects.CityTile object at 0x000001F181ED7EB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF8610>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF8610>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF8610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF8BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF8580>, <lux.game_objects.CityTile object at 0x000001F181EF83D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF2760>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF2760>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF2760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF2A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF2550>, <lux.game_objects.CityTile object at 0x000001F181EF20A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECF760>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECF760>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECF760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE4A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE4E50>, <lux.game_objects.CityTile object at 0x000001F181EE4D00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBAF40>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBAF40>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBAF40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBABB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF7D30>, <lux.game_objects.CityTile object at 0x000001F181EF7D60>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ECD1F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ECD1F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ECD1F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ECD910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECD970>, <lux.game_objects.CityTile object at 0x000001F181ECD0A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F555B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F555B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F555B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F55760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F55BE0>, <lux.game_objects.CityTile object at 0x000001F181F55CA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F49B50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F49B50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F49B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F49610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F49A30>, <lux.game_objects.CityTile object at 0x000001F181F49BB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F3EBB0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F3EBB0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F3EBB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F3EF40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F3E070>, <lux.game_objects.CityTile object at 0x000001F181F3E4C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA9160>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA9160>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA9160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEBFD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEB5B0>, <lux.game_objects.CityTile object at 0x000001F181EEB3A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB44C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB44C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB44C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB4DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F57160>, <lux.game_objects.CityTile object at 0x000001F181F57070>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA7EE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA7EE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA7EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA7160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA77C0>, <lux.game_objects.CityTile object at 0x000001F181EDFBE0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F20AF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F20AF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F20AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F26280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F26BE0>, <lux.game_objects.CityTile object at 0x000001F181F26760>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED5970>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED5970>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED5970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBCC40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBC130>, <lux.game_objects.CityTile object at 0x000001F181EBC2B0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F402E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F402E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F402E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F40370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F40A00>, <lux.game_objects.CityTile object at 0x000001F181F40B20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F44820>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F44820>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F44820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F44130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F44760>, <lux.game_objects.CityTile object at 0x000001F181EB1C10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE1670>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE1670>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE1670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE14F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE1700>, <lux.game_objects.CityTile object at 0x000001F181EE1C40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F16280>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F16280>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F16280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F168B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F306A0>, <lux.game_objects.CityTile object at 0x000001F181F30760>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F4C190>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F4C190>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F4C190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F4C640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F4C670>, <lux.game_objects.CityTile object at 0x000001F181F4C730>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F1DD60>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F1DD60>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F1DD60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F1BBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F1B430>, <lux.game_objects.CityTile object at 0x000001F181F1B460>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB0A00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB0A00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB0A00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2CFA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F2C640>, <lux.game_objects.CityTile object at 0x000001F181F2C880>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EACC40>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EACC40>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EACC40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAC040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAC5B0>, <lux.game_objects.CityTile object at 0x000001F181EAC460>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F10B80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F10B80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F10B80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0AAC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0A0A0>, <lux.game_objects.CityTile object at 0x000001F181F0AA00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F5DC40>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F5DC40>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F5DC40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAB2E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAB4C0>, <lux.game_objects.CityTile object at 0x000001F181EABCA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F53F70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F53F70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F53F70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F53B50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F53130>, <lux.game_objects.CityTile object at 0x000001F181F53670>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED9AF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED9AF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED9AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED9EB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0DBB0>, <lux.game_objects.CityTile object at 0x000001F181F0DB20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F39F70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F39F70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F39F70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F39FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F39C40>, <lux.game_objects.CityTile object at 0x000001F181F39BB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F37CD0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F37CD0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F37CD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F37130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F37D90>, <lux.game_objects.CityTile object at 0x000001F181F37220>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE9EE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE9EE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE9EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE94F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F26DF0>, <lux.game_objects.CityTile object at 0x000001F181F26BE0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F06640>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F06640>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F06640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E83790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDA100>, <lux.game_objects.CityTile object at 0x000001F181EDAAF0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F05C70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F05C70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F05C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F054F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F05CA0>, <lux.game_objects.CityTile object at 0x000001F181F053D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2E700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2E700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2E700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2EE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F2E4C0>, <lux.game_objects.CityTile object at 0x000001F181F2ECA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA9B50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA9B50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA9B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA9FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ECA670>, <lux.game_objects.CityTile object at 0x000001F181ECA9A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB4580>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB4580>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB4580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB4AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF0460>, <lux.game_objects.CityTile object at 0x000001F181EF08E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F49940>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F49940>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F49940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F498B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F49E50>, <lux.game_objects.CityTile object at 0x000001F181EA77C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F57F10>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F57F10>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F57F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F57CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F57D30>, <lux.game_objects.CityTile object at 0x000001F181F57C70>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF4B80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF4B80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF4B80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF43A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF4250>, <lux.game_objects.CityTile object at 0x000001F181EF4310>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F20DF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F20DF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F20DF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F20F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F20E20>, <lux.game_objects.CityTile object at 0x000001F181F20F40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBEBE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBEBE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBEBE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F63160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F635E0>, <lux.game_objects.CityTile object at 0x000001F181F636A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED2430>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED2430>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED2430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED2AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181ED2D00>, <lux.game_objects.CityTile object at 0x000001F181ED2460>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2A8E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2A8E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2A8E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2A7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F2ACA0>, <lux.game_objects.CityTile object at 0x000001F181F4CB50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0BF70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0BF70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0BF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB55B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB5640>, <lux.game_objects.CityTile object at 0x000001F181EB5CA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F1DF70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F1DF70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F1DF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F1D4C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F1D5E0>, <lux.game_objects.CityTile object at 0x000001F181F1DE80>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EEF370>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EEF370>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EEF370>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EEF940>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EEF4C0>, <lux.game_objects.CityTile object at 0x000001F181EEF160>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F44910>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F44910>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F44910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F44AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F444C0>, <lux.game_objects.CityTile object at 0x000001F181F44640>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EACA30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EACA30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EACA30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EACB50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EACCD0>, <lux.game_objects.CityTile object at 0x000001F181EAC4C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F12610>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F12610>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F12610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F122E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F12790>, <lux.game_objects.CityTile object at 0x000001F181F12EE0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F65FA0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F65FA0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F65FA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC2550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC2F10>, <lux.game_objects.CityTile object at 0x000001F181EC2790>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA7D00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA7D00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA7D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA7370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA72E0>, <lux.game_objects.CityTile object at 0x000001F181EA7B20>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F42FD0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F42FD0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F42FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F42070>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F428B0>, <lux.game_objects.CityTile object at 0x000001F181F42CA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F4E310>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F4E310>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F4E310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F4EE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F4EAF0>, <lux.game_objects.CityTile object at 0x000001F181F4E2E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F39D30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F39D30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F39D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F39520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EDAC70>, <lux.game_objects.CityTile object at 0x000001F181EDADC0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F33DC0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F33DC0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F33DC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F33160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F33BE0>, <lux.game_objects.CityTile object at 0x000001F181F67400>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE99D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE99D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE99D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF4250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF49A0>, <lux.game_objects.CityTile object at 0x000001F181EF4D30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F207C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F207C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F207C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F20040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F478B0>, <lux.game_objects.CityTile object at 0x000001F181F47B50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F22D30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F22D30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F22D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F22BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F220A0>, <lux.game_objects.CityTile object at 0x000001F181F227F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED2160>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED2160>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED2160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181ED2DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F5F700>, <lux.game_objects.CityTile object at 0x000001F181F5F3D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFCAC0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFCAC0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFCAC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFC460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F69100>, <lux.game_objects.CityTile object at 0x000001F181F691C0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F57F70>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F57F70>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F57F70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F57430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F57040>, <lux.game_objects.CityTile object at 0x000001F181F573A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F49430>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F49430>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F49430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F49340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F490A0>, <lux.game_objects.CityTile object at 0x000001F181F492E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA8B20>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA8B20>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA8B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB36A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB37C0>, <lux.game_objects.CityTile object at 0x000001F181EB3850>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EC96A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EC96A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EC96A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EC9D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EC9490>, <lux.game_objects.CityTile object at 0x000001F181EB29D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F035E0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F035E0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F035E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F03280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F038B0>, <lux.game_objects.CityTile object at 0x000001F181F031F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F18FD0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F18FD0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F18FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F18850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F63130>, <lux.game_objects.CityTile object at 0x000001F181F63190>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F0BFD0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F0BFD0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F0BFD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0B1C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB1850>, <lux.game_objects.CityTile object at 0x000001F181EB1A30>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2AD90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2AD90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2AD90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2A0A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F2A640>, <lux.game_objects.CityTile object at 0x000001F181F2A130>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EFBE80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EFBE80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EFBE80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EFB520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFB070>, <lux.game_objects.CityTile object at 0x000001F181EFBB80>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F50BE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F50BE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F50BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F0A520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F0AA60>, <lux.game_objects.CityTile object at 0x000001F181F0AF70>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EAB700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EAB700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EAB700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAB220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EAB9A0>, <lux.game_objects.CityTile object at 0x000001F181EAB460>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE1400>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE1400>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE14C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F44280>, <lux.game_objects.CityTile object at 0x000001F181F44AC0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F65430>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F65430>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F65430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F65580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EA7E50>, <lux.game_objects.CityTile object at 0x000001F181EA7430>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F61AF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F61AF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F61AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F61550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F61520>, <lux.game_objects.CityTile object at 0x000001F181EF8B80>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDFCD0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDFCD0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDFCD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDF1C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB0430>, <lux.game_objects.CityTile object at 0x000001F181EB0370>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F168B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F168B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F168B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F16DC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F16310>, <lux.game_objects.CityTile object at 0x000001F181F16C10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F42D30>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F42D30>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F42D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F4EAF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F4E7C0>, <lux.game_objects.CityTile object at 0x000001F181F4E850>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F4C4F0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F4C4F0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F4C4F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F4C850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F4CD30>, <lux.game_objects.CityTile object at 0x000001F181F4CCA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F39790>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F39790>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F39790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F399D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F39B50>, <lux.game_objects.CityTile object at 0x000001F181F392E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F20280>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F20280>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F20280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F20880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F20400>, <lux.game_objects.CityTile object at 0x000001F181F2C250>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F14160>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F14160>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F14160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F14310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F14190>, <lux.game_objects.CityTile object at 0x000001F181EC9490>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F03DF0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F03DF0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F03DF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F03DC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF8250>, <lux.game_objects.CityTile object at 0x000001F181EF8820>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181ED7A90>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181ED7A90>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181ED7A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F220A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F22190>, <lux.game_objects.CityTile object at 0x000001F181F22550>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F061C0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F061C0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F061C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F063D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F06280>, <lux.game_objects.CityTile object at 0x000001F181F06460>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F3CFA0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F3CFA0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F3CFA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F3CFD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F3CD00>, <lux.game_objects.CityTile object at 0x000001F181F3C130>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F5D0D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F5D0D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F5D0D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F5DB50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F5D190>, <lux.game_objects.CityTile object at 0x000001F181F5D0A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EB75B0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EB75B0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EB75B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB74F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB7100>, <lux.game_objects.CityTile object at 0x000001F181EC4D00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA8190>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA8190>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA8190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAC5B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EACCD0>, <lux.game_objects.CityTile object at 0x000001F181EACD90>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE1640>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE1640>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE1640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE1730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE16D0>, <lux.game_objects.CityTile object at 0x000001F181EE1100>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBAAC0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBAAC0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBAAC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EBA730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EBA790>, <lux.game_objects.CityTile object at 0x000001F181EE43D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F18160>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F18160>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F18160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F18AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F181C0>, <lux.game_objects.CityTile object at 0x000001F181F18220>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F77400>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F77400>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F77400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F773D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F77820>, <lux.game_objects.CityTile object at 0x000001F181F778E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F2A550>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F2A550>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F2A550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F2A850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFB040>, <lux.game_objects.CityTile object at 0x000001F181EFBD60>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F69DC0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F69DC0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F69DC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F697F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F690A0>, <lux.game_objects.CityTile object at 0x000001F181F694F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EBE9A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EBE9A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EBE9A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EAB940>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EABB50>, <lux.game_objects.CityTile object at 0x000001F181EABCD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F6C0D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F6C0D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F6C0D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181E9DB80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181E9D3D0>, <lux.game_objects.CityTile object at 0x000001F181E9DA60>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F50BB0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F50BB0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F50BB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F50760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F50250>, <lux.game_objects.CityTile object at 0x000001F181F50370>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F6F6D0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F6F6D0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F6F6D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F6FD00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F6F730>, <lux.game_objects.CityTile object at 0x000001F181F6FC40>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F4EF40>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F4EF40>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F4EF40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F4EBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F4EA60>, <lux.game_objects.CityTile object at 0x000001F181F4E9A0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F27640>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F27640>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F27640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F27BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F27310>, <lux.game_objects.CityTile object at 0x000001F181F273D0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF43A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF43A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF43A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F16790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F16100>, <lux.game_objects.CityTile object at 0x000001F181F16490>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F65EB0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F65EB0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F65EB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F65DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F79430>, <lux.game_objects.CityTile object at 0x000001F181F794F0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EDAB50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EDAB50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EDAB50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EDA9A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE6220>, <lux.game_objects.CityTile object at 0x000001F181EE6F10>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F39700>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F39700>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F39700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F398B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F39550>, <lux.game_objects.CityTile object at 0x000001F181F39CA0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F22190>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F22190>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F22190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F22E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F22EB0>, <lux.game_objects.CityTile object at 0x000001F181F22070>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F14760>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F14760>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F14760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F143A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F14DF0>, <lux.game_objects.CityTile object at 0x000001F181F142E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F330A0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F330A0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F330A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F33790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F331F0>, <lux.game_objects.CityTile object at 0x000001F181F33E50>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F47D00>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F47D00>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F47D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F47B20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F47370>, <lux.game_objects.CityTile object at 0x000001F181F47670>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EE3C40>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EE3C40>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EE3C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EE38B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EE3FA0>, <lux.game_objects.CityTile object at 0x000001F181EB98E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F3CEE0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F3CEE0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F3CEE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F3C430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F3C2E0>, <lux.game_objects.CityTile object at 0x000001F181F3C250>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F73B50>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F73B50>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F73B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F73130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F731F0>, <lux.game_objects.CityTile object at 0x000001F181F735E0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F06AC0>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F06AC0>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F06AC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EB7730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EB7B50>, <lux.game_objects.CityTile object at 0x000001F181EB7D00>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181F26550>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181F26550>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181F26550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181F26A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181F26AF0>, <lux.game_objects.CityTile object at 0x000001F181F26CD0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EA9610>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EA9610>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EA9610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EA99D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EFCB80>, <lux.game_objects.CityTile object at 0x000001F181EFCEB0>]
+INFO:root:Found worker unaccounted for <lux.game_objects.Unit object at 0x000001F181EF5B80>
+INFO:root:Found worker w/o resource <lux.game_objects.Unit object at 0x000001F181EF5B80>
+INFO:root: worker :[<lux.game_objects.Unit object at 0x000001F181EF5B80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001F181EF5F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001F181EF5F40>, <lux.game_objects.CityTile object at 0x000001F181EF5AC0>]
