@@ -1,0 +1,10 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\Rajeev\Documents\GitHub\Lux-Design-2021-Solution\intermediate\main.py", line 32, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\Rajeev\Documents\GitHub\Lux-Design-2021-Solution\intermediate\agent.py", line 142, in agent
+    unit_city = [c for c in cities if c.cityid == associated_city_id][0]
+IndexError: list index out of range
+Agent timed out

@@ -1,0 +1,10 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "C:\Users\Rajeev\Documents\GitHub\Lux-Design-2021-Solution\intermediate\main.py", line 32, in <module>
+    actions = agent(observation, None)
+  File "C:\Users\Rajeev\Documents\GitHub\Lux-Design-2021-Solution\intermediate\agent.py", line 152, in agent
+    if unit.pos == build_location.pos:
+AttributeError: 'NoneType' object has no attribute 'pos'
+Agent timed out

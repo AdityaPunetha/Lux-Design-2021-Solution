@@ -1,0 +1,1471 @@
+INFO:root:Found worker unaccounted for u_2
+INFO:root:Found worker w/o resource u_2
+INFO:root:0: Started Research
+INFO:root:3: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:4: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:6: Built the city: c_2, fule 0.0, size 1, en False
+INFO:root:8: Built the city: c_2, fule 0.0, size 1, en False
+INFO:root:10: Started Research
+INFO:root:12: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:14: Built the city: c_2, fule 100.0, size 1, en False
+INFO:root:16: Built the city: c_2, fule 100.0, size 1, en False
+INFO:root:20: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:20: Started Research
+INFO:root:22: Built the city: c_2, fule 200.0, size 1, en False
+INFO:root:24: Built the city: c_2, fule 200.0, size 1, en False
+INFO:root:28: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:30: Started Research
+INFO:root:32: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:33: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:34: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:39: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:40: Started Research
+INFO:root:43: Worker stuck: u_2 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:45: Built the city: c_2, fule 270.0, size 1, en False
+INFO:root:49: Worker stuck: u_2 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:50: Started Research
+INFO:root:51: Built the city: c_2, fule 370.0, size 1, en True
+INFO:root:51: Navigating:
+INFO:root:53: Built the city: c_2, fule 370.0, size 1, en True
+INFO:root:53: Navigating:
+INFO:root:55: Built the city: c_2, fule 370.0, size 1, en True
+INFO:root:55: Navigating:
+INFO:root:57: Built the city: c_2, fule 370.0, size 1, en True
+INFO:root:57: Built the city:
+INFO:root:58: Worker stuck: u_2 - deque([(21, 22), (21, 22), (21, 22)], maxlen=3)
+INFO:root:58: Created worker
+INFO:root:Found worker unaccounted for u_3
+INFO:root:Found worker w/o resource u_3
+INFO:root:60: Started Research
+INFO:root:61: Built the city: c_2, fule 410.0, size 2, en False
+INFO:root:64: Built the city: c_2, fule 510.0, size 2, en False
+INFO:root:66: Built the city: c_2, fule 610.0, size 2, en True
+INFO:root:66: Navigating:
+INFO:root:67: Built the city: c_2, fule 610.0, size 2, en True
+INFO:root:67: Navigating:
+INFO:root:68: Built the city: c_2, fule 610.0, size 2, en True
+INFO:root:68: Navigating:
+INFO:root:68: Started Research
+INFO:root:69: Built the city: c_2, fule 610.0, size 2, en True
+INFO:root:69: Navigating:
+INFO:root:70: Built the city: c_2, fule 610.0, size 2, en True
+INFO:root:70: Built the city:
+INFO:root:70: Started Research
+INFO:root:71: Worker stuck: u_2 - deque([(22, 21), (22, 21), (22, 21)], maxlen=3)
+INFO:root:71: Created worker
+INFO:root:Found worker unaccounted for u_4
+INFO:root:Found worker w/o resource u_4
+INFO:root:72: Worker stuck: u_3 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:73: Worker stuck: u_3 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:76: Worker stuck: u_4 - deque([(23, 21), (23, 21), (23, 21)], maxlen=3)
+INFO:root:78: Worker stuck: u_3 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:78: Created worker
+INFO:root:Found worker unaccounted for u_5
+INFO:root:Found worker w/o resource u_5
+INFO:root:80: Worker stuck: u_5 - deque([(21, 22), (21, 22)], maxlen=3)
+INFO:root:80: Started Research
+INFO:root:81: Worker stuck: u_4 - deque([(23, 21), (23, 21), (23, 21)], maxlen=3)
+INFO:root:81: Started Research
+INFO:root:82: Built the city: c_2, fule 492.0, size 3, en False
+INFO:root:85: Worker stuck: u_3 - deque([(21, 22), (21, 22), (21, 22)], maxlen=3)
+INFO:root:85: Worker stuck: u_5 - deque([(21, 22), (21, 22), (21, 22)], maxlen=3)
+INFO:root:86: Worker stuck: u_3 - deque([(21, 22), (21, 22), (21, 22)], maxlen=3)
+INFO:root:86: Built the city: c_2, fule 672.0, size 3, en False
+INFO:root:86: Worker stuck: u_5 - deque([(21, 22), (21, 22), (21, 22)], maxlen=3)
+INFO:root:88: Built the city: c_2, fule 812.0, size 3, en False
+INFO:root:88: Started Research
+INFO:root:89: Built the city: c_2, fule 912.0, size 3, en True
+INFO:root:89: Navigating:
+INFO:root:90: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:90: Started Research
+INFO:root:91: Built the city: c_2, fule 912.0, size 3, en True
+INFO:root:91: Navigating:
+INFO:root:91: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:91: Built the city: c_2, fule 912.0, size 3, en True
+INFO:root:91: Navigating:
+INFO:root:91: Started Research
+INFO:root:92: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:92: Worker stuck: u_5 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:93: Built the city: c_2, fule 1012.0, size 3, en True
+INFO:root:93: Navigating:
+INFO:root:93: Worker stuck: u_5 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:94: Worker stuck: u_3 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:94: Worker stuck: u_5 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:95: Worker stuck: u_3 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:95: Worker stuck: u_5 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:96: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:96: Worker stuck: u_5 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:98: Built the city: c_2, fule 1112.0, size 3, en True
+INFO:root:98: Navigating:
+INFO:root:98: Built the city: c_2, fule 1112.0, size 3, en True
+INFO:root:98: Built the city:
+INFO:root:98: Started Research
+INFO:root:99: Worker stuck: u_4 - deque([(23, 21), (23, 21), (23, 21)], maxlen=3)
+INFO:root:99: Worker stuck: u_5 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:99: Created worker
+INFO:root:Found worker unaccounted for u_6
+INFO:root:Found worker w/o resource u_6
+INFO:root:100: Built the city: c_2, fule 1252.0, size 4, en True
+INFO:root:100: Navigating:
+INFO:root:100: Started Research
+INFO:root:101: Worker stuck: u_6 - deque([(23, 21), (23, 21)], maxlen=3)
+INFO:root:101: Started Research
+INFO:root:102: Built the city: c_2, fule 1292.0, size 4, en True
+INFO:root:102: Navigating:
+INFO:root:104: Built the city: c_2, fule 1332.0, size 4, en True
+INFO:root:104: Navigating:
+INFO:root:105: Built the city: c_2, fule 1352.0, size 4, en True
+INFO:root:105: Navigating:
+INFO:root:106: Built the city: c_2, fule 1372.0, size 4, en True
+INFO:root:106: Navigating:
+INFO:root:106: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:106: Worker stuck: u_6 - deque([(23, 21), (23, 21), (23, 21)], maxlen=3)
+INFO:root:107: Built the city: c_2, fule 1372.0, size 4, en True
+INFO:root:107: Navigating:
+INFO:root:108: Built the city: c_2, fule 1372.0, size 4, en True
+INFO:root:108: Navigating:
+INFO:root:108: Built the city: c_2, fule 1372.0, size 4, en True
+INFO:root:108: Navigating:
+INFO:root:108: Started Research
+INFO:root:109: Built the city: c_2, fule 1372.0, size 4, en True
+INFO:root:109: Navigating:
+INFO:root:109: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:109: Started Research
+INFO:root:110: Built the city: c_2, fule 1372.0, size 4, en True
+INFO:root:110: Navigating:
+INFO:root:110: Built the city: c_2, fule 1372.0, size 4, en True
+INFO:root:110: Navigating:
+INFO:root:110: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:110: Started Research
+INFO:root:111: Started Research
+INFO:root:112: Worker stuck: u_5 - deque([(20, 23), (20, 23), (20, 23)], maxlen=3)
+INFO:root:114: Worker stuck: u_3 - deque([(21, 21), (21, 21), (21, 21)], maxlen=3)
+INFO:root:114: Worker stuck: u_4 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:115: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:116: Worker stuck: u_5 - deque([(20, 22), (20, 22), (20, 22)], maxlen=3)
+INFO:root:118: Worker stuck: u_3 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:118: Worker stuck: u_4 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:118: Started Research
+INFO:root:119: Worker stuck: u_4 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:119: Started Research
+INFO:root:120: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:120: Started Research
+INFO:root:121: Worker stuck: u_5 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:121: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:121: Started Research
+INFO:root:122: Worker stuck: u_3 - deque([(22, 20), (22, 20), (22, 20)], maxlen=3)
+INFO:root:123: Worker stuck: u_4 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:123: Built the city: c_2, fule 1152.0, size 4, en False
+INFO:root:125: Built the city: c_2, fule 1152.0, size 4, en False
+INFO:root:125: Built the city: c_2, fule 1152.0, size 4, en False
+INFO:root:125: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:126: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:128: Built the city: c_2, fule 1592.0, size 4, en True
+INFO:root:128: Navigating:
+INFO:root:128: Started Research
+INFO:root:129: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:129: Worker stuck: u_6 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:129: Started Research
+INFO:root:130: Built the city: c_2, fule 1732.0, size 4, en True
+INFO:root:130: Navigating:
+INFO:root:130: Built the city: c_2, fule 1732.0, size 4, en True
+INFO:root:130: Navigating:
+INFO:root:130: Started Research
+INFO:root:131: Started Research
+INFO:root:132: Built the city: c_2, fule 1794.0, size 4, en True
+INFO:root:132: Navigating:
+INFO:root:132: Worker stuck: u_4 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:132: Built the city: c_2, fule 1794.0, size 4, en True
+INFO:root:132: Navigating:
+INFO:root:132: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:133: Worker stuck: u_4 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:133: Worker stuck: u_6 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:134: Built the city: c_2, fule 1914.0, size 4, en True
+INFO:root:134: Navigating:
+INFO:root:134: Built the city: c_2, fule 1914.0, size 4, en True
+INFO:root:134: Navigating:
+INFO:root:136: Built the city: c_2, fule 1914.0, size 4, en True
+INFO:root:136: Navigating:
+INFO:root:136: Built the city: c_2, fule 1914.0, size 4, en True
+INFO:root:136: Built the city:
+INFO:root:137: Worker stuck: u_3 - deque([(20, 21), (20, 21), (20, 21)], maxlen=3)
+INFO:root:137: Built the city: c_2, fule 1914.0, size 5, en True
+INFO:root:137: Navigating:
+INFO:root:137: Worker stuck: u_5 - deque([(21, 21), (21, 21), (21, 21)], maxlen=3)
+INFO:root:137: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:137: Created worker
+INFO:root:Found worker unaccounted for u_7
+INFO:root:Found worker w/o resource u_7
+INFO:root:138: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:138: Started Research
+INFO:root:139: Built the city: c_2, fule 1934.0, size 5, en True
+INFO:root:139: Navigating:
+INFO:root:139: Built the city: c_2, fule 1934.0, size 5, en True
+INFO:root:139: Built the city:
+INFO:root:139: Started Research
+INFO:root:140: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:140: Built the city: c_2, fule 1954.0, size 6, en True
+WARNING:root:140: while search: list index out of range
+WARNING:root:140: while search: list index out of range
+WARNING:root:140: while search: list index out of range
+INFO:root:140: Units error  'NoneType' object has no attribute 'pos'
+INFO:root:140: Created worker
+INFO:root:140: Started Research
+INFO:root:Found worker unaccounted for u_8
+INFO:root:Found worker w/o resource u_8
+INFO:root:141: Built the city: c_2, fule 2014.0, size 6, en True
+INFO:root:141: Built the city:
+INFO:root:141: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:141: Worker stuck: u_6 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:141: Started Research
+INFO:root:142: Worker stuck: u_3 - deque([(20, 21), (20, 21), (20, 21)], maxlen=3)
+INFO:root:142: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:142: Worker stuck: u_6 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:142: Worker stuck: u_7 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:142: Worker stuck: u_8 - deque([(22, 22), (22, 22)], maxlen=3)
+INFO:root:142: Created worker
+INFO:root:Found worker unaccounted for u_9
+INFO:root:Found worker w/o resource u_9
+INFO:root:144: Built the city: c_2, fule 2254.0, size 7, en True
+INFO:root:144: Navigating:
+INFO:root:144: Built the city: c_2, fule 2254.0, size 7, en True
+INFO:root:144: Navigating:
+INFO:root:145: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:145: Worker stuck: u_7 - deque([(21, 22), (21, 22), (21, 22)], maxlen=3)
+INFO:root:146: Built the city: c_2, fule 2314.0, size 7, en True
+INFO:root:146: Navigating:
+INFO:root:146: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:146: Worker stuck: u_8 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:146: Worker stuck: u_9 - deque([(20, 22), (20, 22), (20, 22)], maxlen=3)
+INFO:root:147: Worker stuck: u_4 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:147: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:147: Built the city: c_2, fule 2334.0, size 7, en True
+INFO:root:147: Navigating:
+INFO:root:147: Started Research
+INFO:root:148: Worker stuck: u_4 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:148: Built the city: c_2, fule 2474.0, size 7, en True
+INFO:root:148: Built the city:
+INFO:root:148: Worker stuck: u_7 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:148: Started Research
+INFO:root:149: Worker stuck: u_3 - deque([(21, 22), (21, 22), (21, 22)], maxlen=3)
+INFO:root:149: Worker stuck: u_4 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:149: Worker stuck: u_5 - deque([(20, 22), (20, 22), (20, 22)], maxlen=3)
+INFO:root:149: Worker stuck: u_7 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:149: Worker stuck: u_9 - deque([(20, 23), (20, 23), (20, 23)], maxlen=3)
+INFO:root:149: Created worker
+INFO:root:149: Started Research
+INFO:root:Found worker unaccounted for u_10
+INFO:root:Found worker w/o resource u_10
+INFO:root:150: Worker stuck: u_3 - deque([(21, 22), (21, 22), (21, 22)], maxlen=3)
+INFO:root:150: Worker stuck: u_4 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:150: Worker stuck: u_6 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:150: Worker stuck: u_7 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:150: Worker stuck: u_8 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:150: Started Research
+INFO:root:150: Started Research
+INFO:root:151: Worker stuck: u_6 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:151: Worker stuck: u_8 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:151: Started Research
+INFO:root:152: Worker stuck: u_5 - deque([(20, 23), (20, 23), (20, 23)], maxlen=3)
+INFO:root:152: Worker stuck: u_9 - deque([(19, 23), (19, 23), (19, 23)], maxlen=3)
+INFO:root:152: Started Research
+INFO:root:153: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:153: Worker stuck: u_10 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:155: Worker stuck: u_3 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:155: Worker stuck: u_6 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:156: Worker stuck: u_5 - deque([(19, 23), (19, 23), (19, 23)], maxlen=3)
+INFO:root:156: Worker stuck: u_7 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:156: Worker stuck: u_9 - deque([(19, 22), (19, 22), (19, 22)], maxlen=3)
+INFO:root:157: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:157: Worker stuck: u_7 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:157: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:157: Worker stuck: u_10 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:157: Started Research
+INFO:root:158: Worker stuck: u_3 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:158: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:158: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:158: Worker stuck: u_10 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:158: Started Research
+INFO:root:159: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:159: Worker stuck: u_10 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:159: Started Research
+INFO:root:159: Started Research
+INFO:root:160: Worker stuck: u_5 - deque([(19, 22), (19, 22), (19, 22)], maxlen=3)
+INFO:root:160: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:160: Worker stuck: u_9 - deque([(19, 23), (19, 23), (19, 23)], maxlen=3)
+INFO:root:160: Worker stuck: u_10 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:160: Started Research
+INFO:root:160: Started Research
+INFO:root:161: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:161: Worker stuck: u_9 - deque([(19, 23), (19, 23), (19, 23)], maxlen=3)
+INFO:root:161: Worker stuck: u_10 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:161: Started Research
+INFO:root:162: Worker stuck: u_3 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:162: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:162: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:162: Worker stuck: u_7 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:162: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:162: Worker stuck: u_9 - deque([(19, 23), (19, 23), (19, 23)], maxlen=3)
+INFO:root:162: Started Research
+INFO:root:163: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:163: Worker stuck: u_7 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:164: Built the city: c_2, fule 2770.0, size 8, en True
+INFO:root:164: Navigating:
+INFO:root:166: Worker stuck: u_3 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:166: Worker stuck: u_4 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:166: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:166: Built the city: c_2, fule 2882.0, size 8, en True
+INFO:root:166: Navigating:
+INFO:root:167: Worker stuck: u_3 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:167: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:167: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:167: Started Research
+INFO:root:168: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:168: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:168: Built the city: c_2, fule 2954.0, size 8, en True
+INFO:root:168: Built the city:
+INFO:root:168: Started Research
+INFO:root:169: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:169: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:169: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:169: Worker stuck: u_9 - deque([(19, 22), (19, 22), (19, 22)], maxlen=3)
+INFO:root:169: Created worker
+INFO:root:169: Started Research
+INFO:root:169: Started Research
+INFO:root:Found worker unaccounted for u_11
+INFO:root:Found worker w/o resource u_11
+INFO:root:170: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:170: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:170: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:170: Started Research
+INFO:root:170: Started Research
+INFO:root:171: Worker stuck: u_3 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:171: Worker stuck: u_5 - deque([(20, 23), (20, 23), (20, 23)], maxlen=3)
+INFO:root:171: Worker stuck: u_6 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:171: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:171: Started Research
+INFO:root:172: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:172: Started Research
+INFO:root:173: Built the city: c_2, fule 3049.0, size 9, en True
+INFO:root:173: Built the city:
+INFO:root:173: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:174: Worker stuck: u_3 - deque([(22, 23), (22, 23), (22, 23)], maxlen=3)
+INFO:root:174: Worker stuck: u_4 - deque([(23, 22), (23, 22), (23, 22)], maxlen=3)
+INFO:root:174: Worker stuck: u_5 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:174: Worker stuck: u_6 - deque([(22, 22), (22, 22), (22, 22)], maxlen=3)
+INFO:root:174: Worker stuck: u_8 - deque([(23, 23), (23, 23), (23, 23)], maxlen=3)
+INFO:root:174: Worker stuck: u_9 - deque([(20, 23), (20, 23), (20, 23)], maxlen=3)
+INFO:root:174: Created worker
+INFO:root:Found worker unaccounted for u_12
+INFO:root:Found worker w/o resource u_12
+INFO:root:175: Worker stuck: u_5 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:175: Worker stuck: u_9 - deque([(20, 23), (20, 23), (20, 23)], maxlen=3)
+INFO:root:176: Worker stuck: u_5 - deque([(21, 23), (21, 23), (21, 23)], maxlen=3)
+INFO:root:176: Worker stuck: u_12 - deque([(21, 23), (21, 23)], maxlen=3)
+INFO:root:177: Started Research
+INFO:root:178: Started Research
+INFO:root:179: Worker stuck: u_11 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:179: Started Research
+INFO:root:179: Started Research
+INFO:root:179: Started Research
+INFO:root:180: Worker stuck: u_3 - deque([(21, 21), (21, 21), (21, 21)], maxlen=3)
+INFO:root:180: Worker stuck: u_6 - deque([(21, 21), (21, 21), (21, 21)], maxlen=3)
+INFO:root:180: Started Research
+INFO:root:180: Started Research
+INFO:root:181: Worker stuck: u_8 - deque([(22, 20), (22, 20), (22, 20)], maxlen=3)
+INFO:root:181: Started Research
+INFO:root:182: Worker stuck: u_5 - deque([(22, 21), (22, 21), (22, 21)], maxlen=3)
+INFO:root:182: Worker stuck: u_10 - deque([(22, 14), (22, 14), (22, 14)], maxlen=3)
+INFO:root:182: Started Research
+INFO:root:184: Worker stuck: u_4 - deque([(23, 18), (23, 18), (23, 18)], maxlen=3)
+INFO:root:184: Worker stuck: u_11 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:184: Started Research
+INFO:root:185: Worker stuck: u_4 - deque([(23, 18), (23, 18), (23, 18)], maxlen=3)
+INFO:root:186: Built the city: c_2, fule 3245.0, size 10, en True
+INFO:root:186: Navigating:
+INFO:root:187: Worker stuck: u_3 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:187: Worker stuck: u_5 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:187: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:187: Worker stuck: u_12 - deque([(20, 18), (20, 18), (20, 18)], maxlen=3)
+INFO:root:187: Started Research
+INFO:root:188: Worker stuck: u_3 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:188: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:188: Worker stuck: u_12 - deque([(20, 18), (20, 18), (20, 18)], maxlen=3)
+INFO:root:188: Started Research
+INFO:root:189: Started Research
+INFO:root:189: Started Research
+INFO:root:189: Started Research
+INFO:root:190: Worker stuck: u_8 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:190: Worker stuck: u_9 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:190: Built the city: c_2, fule 3245.0, size 10, en True
+INFO:root:190: Navigating:
+INFO:root:190: Started Research
+INFO:root:190: Started Research
+INFO:root:191: Worker stuck: u_3 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:191: Worker stuck: u_6 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:191: Worker stuck: u_8 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:191: Worker stuck: u_11 - deque([(20, 18), (20, 18), (20, 18)], maxlen=3)
+INFO:root:191: Worker stuck: u_12 - deque([(20, 17), (20, 17), (20, 17)], maxlen=3)
+INFO:root:191: Created worker
+INFO:root:Found worker unaccounted for u_13
+INFO:root:Found worker w/o resource u_13
+INFO:root:192: Worker stuck: u_4 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:192: Started Research
+INFO:root:194: Worker stuck: u_7 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:194: Worker stuck: u_9 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:194: Worker stuck: u_10 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:194: Created worker
+INFO:root:Found worker unaccounted for u_14
+INFO:root:Found worker w/o resource u_14
+INFO:root:195: Worker stuck: u_3 - deque([(20, 18), (20, 18), (20, 18)], maxlen=3)
+INFO:root:195: Worker stuck: u_6 - deque([(22, 16), (22, 16), (22, 16)], maxlen=3)
+INFO:root:195: Worker stuck: u_8 - deque([(23, 16), (23, 16), (23, 16)], maxlen=3)
+INFO:root:195: Worker stuck: u_11 - deque([(20, 17), (20, 17), (20, 17)], maxlen=3)
+INFO:root:195: Worker stuck: u_12 - deque([(21, 17), (21, 17), (21, 17)], maxlen=3)
+INFO:root:196: Worker stuck: u_4 - deque([(22, 19), (22, 19), (22, 19)], maxlen=3)
+INFO:root:197: Started Research
+INFO:root:198: Worker stuck: u_7 - deque([(16, 15), (16, 15), (16, 15)], maxlen=3)
+INFO:root:198: Worker stuck: u_9 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:198: Worker stuck: u_10 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:198: Created worker
+INFO:root:Found worker unaccounted for u_15
+INFO:root:Found worker w/o resource u_15
+INFO:root:199: Worker stuck: u_3 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:199: Worker stuck: u_6 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:199: Worker stuck: u_8 - deque([(22, 16), (22, 16), (22, 16)], maxlen=3)
+INFO:root:199: Worker stuck: u_11 - deque([(21, 17), (21, 17), (21, 17)], maxlen=3)
+INFO:root:199: Worker stuck: u_12 - deque([(20, 17), (20, 17), (20, 17)], maxlen=3)
+INFO:root:199: Started Research
+INFO:root:199: Started Research
+INFO:root:199: Started Research
+INFO:root:200: Worker stuck: u_4 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:200: Started Research
+INFO:root:200: Started Research
+INFO:root:201: Worker stuck: u_4 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:201: Started Research
+INFO:root:202: Worker stuck: u_7 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:202: Worker stuck: u_9 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:202: Worker stuck: u_10 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:202: Started Research
+INFO:root:203: Worker stuck: u_3 - deque([(20, 18), (20, 18), (20, 18)], maxlen=3)
+INFO:root:203: Built the city: c_2, fule 2145.0, size 10, en False
+INFO:root:203: Worker stuck: u_6 - deque([(22, 16), (22, 16), (22, 16)], maxlen=3)
+INFO:root:203: Worker stuck: u_8 - deque([(23, 16), (23, 16), (23, 16)], maxlen=3)
+INFO:root:203: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:203: Worker stuck: u_12 - deque([(21, 17), (21, 17), (21, 17)], maxlen=3)
+INFO:root:204: Built the city: c_2, fule 2145.0, size 10, en False
+INFO:root:204: Worker stuck: u_8 - deque([(23, 16), (23, 16), (23, 16)], maxlen=3)
+INFO:root:204: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:204: Worker stuck: u_12 - deque([(21, 17), (21, 17), (21, 17)], maxlen=3)
+INFO:root:204: Started Research
+INFO:root:205: Built the city: c_2, fule 2145.0, size 10, en False
+INFO:root:205: Built the city: c_2, fule 2145.0, size 10, en False
+INFO:root:205: Built the city: c_2, fule 2145.0, size 10, en False
+INFO:root:205: Worker stuck: u_7 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:205: Worker stuck: u_9 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:206: Built the city: c_2, fule 3145.0, size 10, en True
+INFO:root:206: Navigating:
+INFO:root:206: Built the city: c_2, fule 3145.0, size 10, en True
+INFO:root:206: Navigating:
+INFO:root:207: Built the city: c_2, fule 3145.0, size 10, en True
+INFO:root:207: Navigating:
+INFO:root:207: Built the city: c_2, fule 3145.0, size 10, en True
+INFO:root:207: Navigating:
+INFO:root:207: Built the city: c_2, fule 3145.0, size 10, en True
+INFO:root:207: Navigating:
+INFO:root:207: Worker stuck: u_15 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:207: Started Research
+INFO:root:208: Built the city: c_2, fule 3145.0, size 10, en True
+INFO:root:208: Navigating:
+INFO:root:208: Built the city: c_2, fule 3145.0, size 10, en True
+INFO:root:208: Navigating:
+INFO:root:208: Worker stuck: u_15 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:208: Started Research
+INFO:root:209: Built the city: c_2, fule 3145.0, size 10, en True
+INFO:root:209: Built the city:
+INFO:root:209: Worker stuck: u_8 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:209: Started Research
+INFO:root:209: Started Research
+INFO:root:209: Started Research
+INFO:root:210: Worker stuck: u_3 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:210: Worker stuck: u_6 - deque([(22, 19), (22, 19), (22, 19)], maxlen=3)
+INFO:root:210: Worker stuck: u_7 - deque([(16, 15), (16, 15), (16, 15)], maxlen=3)
+INFO:root:210: Built the city: c_2, fule 3145.0, size 11, en False
+INFO:root:210: Built the city: c_2, fule 3145.0, size 11, en False
+INFO:root:210: Built the city: c_2, fule 3145.0, size 11, en False
+INFO:root:210: Created worker
+INFO:root:210: Started Research
+INFO:root:210: Started Research
+INFO:root:Found worker unaccounted for u_16
+INFO:root:Found worker w/o resource u_16
+INFO:root:211: Built the city: c_2, fule 4145.0, size 11, en True
+WARNING:root:211: while search: list index out of range
+INFO:root:211: Navigating:
+INFO:root:211: Started Research
+INFO:root:212: Built the city: c_2, fule 4145.0, size 11, en True
+INFO:root:212: Navigating:
+INFO:root:212: Built the city: c_2, fule 4145.0, size 11, en True
+INFO:root:212: Navigating:
+INFO:root:212: Built the city: c_2, fule 4145.0, size 11, en True
+INFO:root:212: Navigating:
+INFO:root:212: Built the city: c_2, fule 4145.0, size 11, en True
+INFO:root:212: Navigating:
+INFO:root:212: Started Research
+INFO:root:213: Built the city: c_2, fule 4145.0, size 11, en True
+INFO:root:213: Navigating:
+INFO:root:214: Built the city: c_2, fule 4145.0, size 11, en True
+INFO:root:214: Built the city:
+INFO:root:214: Started Research
+INFO:root:215: Worker stuck: u_6 - deque([(23, 20), (23, 20), (23, 20)], maxlen=3)
+INFO:root:215: Worker stuck: u_7 - deque([(16, 15), (16, 15), (16, 15)], maxlen=3)
+INFO:root:215: Built the city: c_2, fule 4145.0, size 12, en True
+WARNING:root:215: while search: list index out of range
+INFO:root:215: Navigating:
+INFO:root:215: Worker stuck: u_10 - deque([(15, 14), (15, 14), (15, 14)], maxlen=3)
+INFO:root:215: Worker stuck: u_11 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:215: Worker stuck: u_12 - deque([(22, 19), (22, 19), (22, 19)], maxlen=3)
+INFO:root:215: Worker stuck: u_15 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:215: Worker stuck: u_16 - deque([(22, 20), (22, 20), (22, 20)], maxlen=3)
+INFO:root:215: Created worker
+INFO:root:Found worker unaccounted for u_17
+INFO:root:Found worker w/o resource u_17
+INFO:root:216: Worker stuck: u_4 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:216: Worker stuck: u_8 - deque([(23, 19), (23, 19), (23, 19)], maxlen=3)
+INFO:root:216: Worker stuck: u_11 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:216: Worker stuck: u_12 - deque([(22, 19), (22, 19), (22, 19)], maxlen=3)
+INFO:root:216: Worker stuck: u_15 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:217: Built the city: c_2, fule 4145.0, size 12, en True
+INFO:root:217: Navigating:
+INFO:root:217: Worker stuck: u_8 - deque([(23, 19), (23, 19), (23, 19)], maxlen=3)
+INFO:root:217: Built the city: c_2, fule 4145.0, size 12, en True
+INFO:root:217: Navigating:
+INFO:root:217: Built the city: c_2, fule 4145.0, size 12, en True
+INFO:root:217: Navigating:
+INFO:root:217: Worker stuck: u_11 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:217: Worker stuck: u_15 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:217: Worker stuck: u_17 - deque([(23, 20), (23, 20)], maxlen=3)
+INFO:root:217: Started Research
+INFO:root:218: Worker stuck: u_11 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:218: Built the city: c_2, fule 4145.0, size 12, en True
+INFO:root:218: Built the city:
+INFO:root:218: Worker stuck: u_16 - deque([(23, 20), (23, 20), (23, 20)], maxlen=3)
+INFO:root:218: Worker stuck: u_17 - deque([(23, 20), (23, 20), (23, 20)], maxlen=3)
+INFO:root:218: Started Research
+INFO:root:219: Worker stuck: u_3 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:219: Built the city: c_2, fule 4145.0, size 13, en True
+INFO:root:219: Navigating:
+INFO:root:219: Built the city: c_2, fule 4145.0, size 13, en True
+INFO:root:219: Navigating:
+INFO:root:219: Built the city: c_2, fule 4145.0, size 13, en True
+INFO:root:219: Navigating:
+INFO:root:219: Built the city: c_2, fule 4145.0, size 13, en True
+INFO:root:219: Navigating:
+INFO:root:219: Worker stuck: u_11 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:219: Worker stuck: u_12 - deque([(22, 20), (22, 20), (22, 20)], maxlen=3)
+INFO:root:219: Built the city: c_2, fule 4145.0, size 13, en True
+INFO:root:219: Navigating:
+INFO:root:219: Worker stuck: u_17 - deque([(23, 20), (23, 20), (23, 20)], maxlen=3)
+INFO:root:219: Created worker
+INFO:root:219: Started Research
+INFO:root:219: Started Research
+INFO:root:219: Started Research
+INFO:root:Found worker unaccounted for u_18
+INFO:root:Found worker w/o resource u_18
+INFO:root:220: Built the city: c_2, fule 4495.0, size 13, en True
+INFO:root:220: Navigating:
+INFO:root:220: Started Research
+INFO:root:220: Started Research
+INFO:root:220: Started Research
+INFO:root:221: Worker stuck: u_4 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:221: Built the city: c_2, fule 4495.0, size 13, en True
+INFO:root:221: Navigating:
+INFO:root:221: Built the city: c_2, fule 4495.0, size 13, en True
+INFO:root:221: Navigating:
+INFO:root:221: Built the city: c_2, fule 4495.0, size 13, en True
+INFO:root:221: Navigating:
+INFO:root:221: Built the city: c_2, fule 4495.0, size 13, en True
+INFO:root:221: Navigating:
+INFO:root:221: Built the city: c_2, fule 4495.0, size 13, en True
+INFO:root:221: Navigating:
+INFO:root:221: Started Research
+INFO:root:222: Worker stuck: u_3 - deque([(21, 17), (21, 17), (21, 17)], maxlen=3)
+INFO:root:222: Worker stuck: u_4 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:222: Worker stuck: u_8 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:222: Worker stuck: u_12 - deque([(22, 19), (22, 19), (22, 19)], maxlen=3)
+INFO:root:222: Worker stuck: u_17 - deque([(22, 20), (22, 20), (22, 20)], maxlen=3)
+INFO:root:222: Started Research
+INFO:root:223: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:223: Navigating:
+INFO:root:223: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:223: Navigating:
+INFO:root:223: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:223: Navigating:
+INFO:root:223: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:223: Navigating:
+INFO:root:224: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:224: Navigating:
+INFO:root:224: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:224: Navigating:
+INFO:root:224: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:224: Navigating:
+INFO:root:224: Worker stuck: u_11 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:224: Started Research
+INFO:root:225: Worker stuck: u_3 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:225: Worker stuck: u_4 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:225: Worker stuck: u_6 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:225: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:225: Navigating:
+INFO:root:225: Worker stuck: u_8 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:225: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:225: Navigating:
+INFO:root:225: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:225: Navigating:
+INFO:root:225: Worker stuck: u_11 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:225: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:225: Navigating:
+INFO:root:225: Worker stuck: u_16 - deque([(23, 18), (23, 18), (23, 18)], maxlen=3)
+INFO:root:225: Worker stuck: u_17 - deque([(23, 20), (23, 20), (23, 20)], maxlen=3)
+INFO:root:225: Worker stuck: u_18 - deque([(23, 19), (23, 19), (23, 19)], maxlen=3)
+INFO:root:225: Started Research
+INFO:root:227: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:227: Navigating:
+INFO:root:227: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:227: Navigating:
+INFO:root:227: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:227: Navigating:
+INFO:root:227: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:227: Navigating:
+INFO:root:227: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:227: Navigating:
+INFO:root:227: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:227: Navigating:
+INFO:root:227: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:227: Navigating:
+INFO:root:227: Started Research
+INFO:root:228: Worker stuck: u_3 - deque([(22, 16), (22, 16), (22, 16)], maxlen=3)
+INFO:root:228: Worker stuck: u_4 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:228: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:228: Worker stuck: u_12 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:228: Started Research
+INFO:root:229: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:229: Navigating:
+INFO:root:229: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:229: Navigating:
+INFO:root:229: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:229: Navigating:
+INFO:root:229: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:229: Navigating:
+INFO:root:229: Built the city: c_2, fule 4645.0, size 13, en True
+INFO:root:229: Built the city:
+INFO:root:229: Worker stuck: u_17 - deque([(23, 20), (23, 20), (23, 20)], maxlen=3)
+INFO:root:229: Worker stuck: u_18 - deque([(23, 19), (23, 19), (23, 19)], maxlen=3)
+INFO:root:229: Started Research
+INFO:root:229: Started Research
+INFO:root:229: Started Research
+INFO:root:229: Started Research
+INFO:root:230: Built the city: c_2, fule 4645.0, size 14, en True
+WARNING:root:230: while search: list index out of range
+INFO:root:230: Navigating:
+INFO:root:230: Built the city: c_2, fule 4645.0, size 14, en True
+INFO:root:230: Navigating:
+INFO:root:230: Worker stuck: u_6 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:230: Worker stuck: u_15 - deque([(19, 21), (19, 21), (19, 21)], maxlen=3)
+INFO:root:230: Created worker
+INFO:root:230: Started Research
+INFO:root:230: Started Research
+INFO:root:230: Started Research
+INFO:root:Found worker unaccounted for u_19
+INFO:root:Found worker w/o resource u_19
+INFO:root:231: Worker stuck: u_3 - deque([(23, 16), (23, 16), (23, 16)], maxlen=3)
+INFO:root:231: Worker stuck: u_4 - deque([(22, 16), (22, 16), (22, 16)], maxlen=3)
+INFO:root:231: Worker stuck: u_6 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:231: Worker stuck: u_12 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:231: Started Research
+INFO:root:232: Worker stuck: u_3 - deque([(23, 16), (23, 16), (23, 16)], maxlen=3)
+INFO:root:232: Worker stuck: u_6 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:232: Worker stuck: u_16 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:232: Worker stuck: u_18 - deque([(23, 18), (23, 18), (23, 18)], maxlen=3)
+INFO:root:232: Created worker
+INFO:root:Found worker unaccounted for u_20
+INFO:root:Found worker w/o resource u_20
+INFO:root:234: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:234: Created worker
+INFO:root:Found worker unaccounted for u_21
+INFO:root:Found worker w/o resource u_21
+INFO:root:235: Worker stuck: u_4 - deque([(21, 16), (21, 16), (21, 16)], maxlen=3)
+INFO:root:235: Worker stuck: u_7 - deque([(18, 18), (18, 18), (18, 18)], maxlen=3)
+INFO:root:235: Worker stuck: u_8 - deque([(20, 19), (20, 19), (20, 19)], maxlen=3)
+INFO:root:235: Worker stuck: u_9 - deque([(17, 18), (17, 18), (17, 18)], maxlen=3)
+INFO:root:235: Worker stuck: u_10 - deque([(17, 17), (17, 17), (17, 17)], maxlen=3)
+INFO:root:235: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:235: Worker stuck: u_12 - deque([(21, 17), (21, 17), (21, 17)], maxlen=3)
+INFO:root:235: Worker stuck: u_19 - deque([(22, 20), (22, 20), (22, 20)], maxlen=3)
+INFO:root:235: Created worker
+INFO:root:Found worker unaccounted for u_22
+INFO:root:Found worker w/o resource u_22
+INFO:root:236: Worker stuck: u_3 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:236: Worker stuck: u_6 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:236: Worker stuck: u_8 - deque([(20, 19), (20, 19), (20, 19)], maxlen=3)
+INFO:root:236: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:236: Worker stuck: u_16 - deque([(22, 19), (22, 19), (22, 19)], maxlen=3)
+INFO:root:236: Worker stuck: u_18 - deque([(23, 19), (23, 19), (23, 19)], maxlen=3)
+INFO:root:237: Worker stuck: u_3 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:237: Worker stuck: u_6 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:237: Worker stuck: u_22 - deque([(23, 20), (23, 20)], maxlen=3)
+INFO:root:237: Started Research
+INFO:root:238: Worker stuck: u_3 - deque([(23, 17), (23, 17), (23, 17)], maxlen=3)
+INFO:root:238: Worker stuck: u_6 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:238: Worker stuck: u_22 - deque([(23, 20), (23, 20), (23, 20)], maxlen=3)
+INFO:root:238: Created worker
+INFO:root:Found worker unaccounted for u_23
+INFO:root:Found worker w/o resource u_23
+INFO:root:239: Worker stuck: u_4 - deque([(22, 16), (22, 16), (22, 16)], maxlen=3)
+INFO:root:239: Worker stuck: u_7 - deque([(18, 17), (18, 17), (18, 17)], maxlen=3)
+INFO:root:239: Worker stuck: u_9 - deque([(16, 18), (16, 18), (16, 18)], maxlen=3)
+INFO:root:239: Worker stuck: u_10 - deque([(17, 18), (17, 18), (17, 18)], maxlen=3)
+INFO:root:239: Worker stuck: u_12 - deque([(20, 17), (20, 17), (20, 17)], maxlen=3)
+INFO:root:239: Worker stuck: u_22 - deque([(23, 20), (23, 20), (23, 20)], maxlen=3)
+INFO:root:239: Created worker
+INFO:root:239: Created worker
+INFO:root:239: Started Research
+INFO:root:239: Started Research
+INFO:root:Found worker unaccounted for u_24
+INFO:root:Found worker unaccounted for u_25
+INFO:root:Found worker w/o resource u_24
+INFO:root:Found worker w/o resource u_25
+INFO:root:240: Worker stuck: u_8 - deque([(20, 20), (20, 20), (20, 20)], maxlen=3)
+INFO:root:240: Worker stuck: u_11 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:240: Worker stuck: u_18 - deque([(23, 18), (23, 18), (23, 18)], maxlen=3)
+INFO:root:240: Created worker
+INFO:root:240: Started Research
+INFO:root:240: Started Research
+INFO:root:240: Started Research
+INFO:root:Found worker unaccounted for u_26
+INFO:root:Found worker w/o resource u_26
+INFO:root:241: Started Research
+INFO:root:242: Worker stuck: u_3 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:242: Worker stuck: u_6 - deque([(21, 17), (21, 17), (21, 17)], maxlen=3)
+INFO:root:242: Started Research
+INFO:root:243: Worker stuck: u_3 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:243: Worker stuck: u_4 - deque([(21, 16), (21, 16), (21, 16)], maxlen=3)
+INFO:root:243: Worker stuck: u_7 - deque([(18, 18), (18, 18), (18, 18)], maxlen=3)
+INFO:root:243: Worker stuck: u_9 - deque([(16, 17), (16, 17), (16, 17)], maxlen=3)
+INFO:root:243: Worker stuck: u_10 - deque([(16, 18), (16, 18), (16, 18)], maxlen=3)
+INFO:root:243: Worker stuck: u_11 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:243: Worker stuck: u_12 - deque([(19, 17), (19, 17), (19, 17)], maxlen=3)
+INFO:root:243: Worker stuck: u_18 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:244: Worker stuck: u_3 - deque([(22, 17), (22, 17), (22, 17)], maxlen=3)
+INFO:root:244: Worker stuck: u_18 - deque([(22, 18), (22, 18), (22, 18)], maxlen=3)
+INFO:root:244: Started Research
+INFO:root:245: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:245: Worker stuck: u_6 - deque([(20, 17), (20, 17), (20, 17)], maxlen=3)
+INFO:root:245: Started Research
+INFO:root:246: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:246: Worker stuck: u_4 - deque([(20, 16), (20, 16), (20, 16)], maxlen=3)
+INFO:root:246: Worker stuck: u_6 - deque([(20, 17), (20, 17), (20, 17)], maxlen=3)
+INFO:root:246: Worker stuck: u_25 - deque([(20, 19), (20, 19), (20, 19)], maxlen=3)
+INFO:root:247: Worker stuck: u_6 - deque([(20, 17), (20, 17), (20, 17)], maxlen=3)
+INFO:root:247: Worker stuck: u_25 - deque([(20, 19), (20, 19), (20, 19)], maxlen=3)
+INFO:root:247: Started Research
+INFO:root:248: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:248: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:248: Started Research
+INFO:root:249: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:249: Started Research
+INFO:root:249: Started Research
+INFO:root:249: Started Research
+INFO:root:249: Started Research
+INFO:root:250: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:250: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:250: Started Research
+INFO:root:250: Started Research
+INFO:root:250: Started Research
+INFO:root:250: Started Research
+INFO:root:251: Worker stuck: u_4 - deque([(20, 16), (20, 16), (20, 16)], maxlen=3)
+INFO:root:251: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:251: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:251: Started Research
+INFO:root:252: Built the city: c_2, fule 3905.0, size 14, en False
+INFO:root:252: Worker stuck: u_9 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:252: Worker stuck: u_10 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:252: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:252: Started Research
+INFO:root:253: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:253: Navigating:
+INFO:root:253: Worker stuck: u_8 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:253: Worker stuck: u_9 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:253: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:254: Worker stuck: u_7 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:254: Worker stuck: u_8 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:254: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:254: Navigating:
+INFO:root:254: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:254: Started Research
+INFO:root:255: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:255: Navigating:
+INFO:root:255: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:255: Navigating:
+INFO:root:255: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:255: Started Research
+INFO:root:256: Worker stuck: u_6 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:256: Worker stuck: u_9 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:256: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:256: Navigating:
+INFO:root:256: Worker stuck: u_11 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:256: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:256: Worker stuck: u_23 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:257: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:257: Navigating:
+INFO:root:257: Worker stuck: u_6 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:257: Worker stuck: u_7 - deque([(18, 16), (18, 16), (18, 16)], maxlen=3)
+INFO:root:257: Worker stuck: u_8 - deque([(19, 16), (19, 16), (19, 16)], maxlen=3)
+INFO:root:257: Worker stuck: u_10 - deque([(17, 15), (17, 15), (17, 15)], maxlen=3)
+INFO:root:257: Started Research
+INFO:root:258: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:258: Navigating:
+INFO:root:258: Started Research
+INFO:root:259: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:259: Navigating:
+INFO:root:259: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:259: Navigating:
+INFO:root:259: Started Research
+INFO:root:259: Started Research
+INFO:root:259: Started Research
+INFO:root:259: Started Research
+INFO:root:260: Worker stuck: u_7 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:260: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:260: Navigating:
+INFO:root:260: Worker stuck: u_25 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:260: Started Research
+INFO:root:260: Started Research
+INFO:root:260: Started Research
+INFO:root:260: Started Research
+INFO:root:261: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:261: Navigating:
+INFO:root:261: Worker stuck: u_9 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:261: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:261: Navigating:
+INFO:root:261: Worker stuck: u_11 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:261: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:261: Worker stuck: u_23 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:261: Started Research
+INFO:root:262: Started Research
+INFO:root:263: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:263: Navigating:
+INFO:root:263: Worker stuck: u_7 - deque([(18, 16), (18, 16), (18, 16)], maxlen=3)
+INFO:root:263: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:263: Navigating:
+INFO:root:263: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:263: Navigating:
+INFO:root:264: Worker stuck: u_6 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:264: Worker stuck: u_8 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:264: Worker stuck: u_10 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:264: Worker stuck: u_11 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:264: Worker stuck: u_12 - deque([(18, 13), (18, 13), (18, 13)], maxlen=3)
+INFO:root:264: Worker stuck: u_23 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:264: Started Research
+INFO:root:265: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:265: Navigating:
+INFO:root:265: Worker stuck: u_8 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:265: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:265: Navigating:
+INFO:root:265: Worker stuck: u_10 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:265: Worker stuck: u_11 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:265: Worker stuck: u_12 - deque([(18, 13), (18, 13), (18, 13)], maxlen=3)
+INFO:root:265: Worker stuck: u_23 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:265: Worker stuck: u_26 - deque([(19, 13), (19, 13), (19, 13)], maxlen=3)
+INFO:root:265: Started Research
+INFO:root:266: Worker stuck: u_7 - deque([(17, 16), (17, 16), (17, 16)], maxlen=3)
+INFO:root:266: Worker stuck: u_8 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:266: Worker stuck: u_9 - deque([(17, 15), (17, 15), (17, 15)], maxlen=3)
+INFO:root:266: Worker stuck: u_11 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:266: Worker stuck: u_12 - deque([(18, 13), (18, 13), (18, 13)], maxlen=3)
+INFO:root:267: Built the city: c_2, fule 4905.0, size 14, en True
+INFO:root:267: Built the city:
+INFO:root:267: Worker stuck: u_12 - deque([(18, 13), (18, 13), (18, 13)], maxlen=3)
+INFO:root:267: Worker stuck: u_25 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:267: Started Research
+INFO:root:268: Worker stuck: u_3 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:268: Worker stuck: u_4 - deque([(23, 19), (23, 19), (23, 19)], maxlen=3)
+INFO:root:268: Built the city: c_2, fule 4905.0, size 15, en True
+INFO:root:268: Navigating:
+INFO:root:268: Built the city: c_2, fule 4905.0, size 15, en True
+INFO:root:268: Navigating:
+INFO:root:268: Worker stuck: u_10 - deque([(18, 16), (18, 16), (18, 16)], maxlen=3)
+INFO:root:268: Built the city: c_2, fule 4905.0, size 15, en True
+INFO:root:268: Navigating:
+INFO:root:268: Worker stuck: u_25 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:268: Created worker
+INFO:root:268: Started Research
+INFO:root:Found worker unaccounted for u_27
+INFO:root:Found worker w/o resource u_27
+INFO:root:269: Worker stuck: u_6 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:269: Worker stuck: u_7 - deque([(16, 16), (16, 16), (16, 16)], maxlen=3)
+INFO:root:269: Worker stuck: u_11 - deque([(16, 13), (16, 13), (16, 13)], maxlen=3)
+INFO:root:269: Worker stuck: u_18 - deque([(22, 6), (22, 6), (22, 6)], maxlen=3)
+INFO:root:269: Started Research
+INFO:root:269: Started Research
+INFO:root:269: Started Research
+INFO:root:269: Started Research
+INFO:root:270: Built the city: c_2, fule 4905.0, size 15, en True
+INFO:root:270: Navigating:
+INFO:root:270: Built the city: c_2, fule 4905.0, size 15, en True
+INFO:root:270: Navigating:
+INFO:root:270: Worker stuck: u_12 - deque([(18, 12), (18, 12), (18, 12)], maxlen=3)
+INFO:root:270: Worker stuck: u_26 - deque([(19, 13), (19, 13), (19, 13)], maxlen=3)
+INFO:root:270: Started Research
+INFO:root:270: Started Research
+INFO:root:270: Started Research
+INFO:root:270: Started Research
+INFO:root:271: Created worker
+INFO:root:Found worker unaccounted for u_28
+INFO:root:Found worker w/o resource u_28
+INFO:root:272: Worker stuck: u_18 - deque([(22, 5), (22, 5), (22, 5)], maxlen=3)
+INFO:root:272: Worker stuck: u_24 - deque([(22, 6), (22, 6), (22, 6)], maxlen=3)
+INFO:root:272: Created worker
+INFO:root:Found worker unaccounted for u_29
+INFO:root:Found worker w/o resource u_29
+INFO:root:274: Worker stuck: u_8 - deque([(20, 13), (20, 13), (20, 13)], maxlen=3)
+INFO:root:274: Worker stuck: u_9 - deque([(17, 18), (17, 18), (17, 18)], maxlen=3)
+INFO:root:274: Worker stuck: u_10 - deque([(19, 17), (19, 17), (19, 17)], maxlen=3)
+INFO:root:274: Worker stuck: u_12 - deque([(17, 12), (17, 12), (17, 12)], maxlen=3)
+INFO:root:274: Created worker
+INFO:root:Found worker unaccounted for u_30
+INFO:root:Found worker w/o resource u_30
+INFO:root:275: Worker stuck: u_6 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:275: Worker stuck: u_7 - deque([(16, 16), (16, 16), (16, 16)], maxlen=3)
+INFO:root:275: Worker stuck: u_11 - deque([(16, 13), (16, 13), (16, 13)], maxlen=3)
+INFO:root:275: Created worker
+INFO:root:Found worker unaccounted for u_31
+INFO:root:Found worker w/o resource u_31
+INFO:root:276: Worker stuck: u_18 - deque([(22, 4), (22, 4), (22, 4)], maxlen=3)
+INFO:root:276: Worker stuck: u_24 - deque([(21, 6), (21, 6), (21, 6)], maxlen=3)
+INFO:root:277: Created worker
+INFO:root:Found worker unaccounted for u_32
+INFO:root:Found worker w/o resource u_32
+INFO:root:278: Worker stuck: u_8 - deque([(21, 13), (21, 13), (21, 13)], maxlen=3)
+INFO:root:278: Worker stuck: u_9 - deque([(16, 18), (16, 18), (16, 18)], maxlen=3)
+INFO:root:278: Worker stuck: u_10 - deque([(19, 18), (19, 18), (19, 18)], maxlen=3)
+INFO:root:278: Worker stuck: u_12 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:278: Created worker
+INFO:root:278: Created worker
+INFO:root:Found worker unaccounted for u_33
+INFO:root:Found worker unaccounted for u_34
+INFO:root:Found worker w/o resource u_33
+INFO:root:Found worker w/o resource u_34
+INFO:root:279: Worker stuck: u_6 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:279: Worker stuck: u_7 - deque([(16, 15), (16, 15), (16, 15)], maxlen=3)
+INFO:root:279: Worker stuck: u_11 - deque([(15, 13), (15, 13), (15, 13)], maxlen=3)
+INFO:root:279: Created worker
+INFO:root:279: Created worker
+INFO:root:279: Created worker
+INFO:root:279: Started Research
+INFO:root:Found worker unaccounted for u_35
+INFO:root:Found worker unaccounted for u_36
+INFO:root:Found worker unaccounted for u_37
+INFO:root:Found worker w/o resource u_35
+INFO:root:Found worker w/o resource u_36
+INFO:root:Found worker w/o resource u_37
+INFO:root:280: Worker stuck: u_18 - deque([(21, 4), (21, 4), (21, 4)], maxlen=3)
+INFO:root:280: Worker stuck: u_24 - deque([(21, 5), (21, 5), (21, 5)], maxlen=3)
+INFO:root:280: Created worker
+INFO:root:280: Created worker
+INFO:root:280: Started Research
+INFO:root:280: Started Research
+INFO:root:Found worker unaccounted for u_38
+INFO:root:Found worker unaccounted for u_39
+INFO:root:Found worker w/o resource u_38
+INFO:root:Found worker w/o resource u_39
+INFO:root:281: Started Research
+INFO:root:282: Worker stuck: u_8 - deque([(21, 12), (21, 12), (21, 12)], maxlen=3)
+INFO:root:282: Worker stuck: u_9 - deque([(17, 18), (17, 18), (17, 18)], maxlen=3)
+INFO:root:282: Worker stuck: u_10 - deque([(18, 18), (18, 18), (18, 18)], maxlen=3)
+INFO:root:282: Worker stuck: u_12 - deque([(18, 13), (18, 13), (18, 13)], maxlen=3)
+INFO:root:282: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:282: Started Research
+INFO:root:283: Worker stuck: u_6 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:283: Worker stuck: u_7 - deque([(17, 15), (17, 15), (17, 15)], maxlen=3)
+INFO:root:283: Worker stuck: u_11 - deque([(15, 14), (15, 14), (15, 14)], maxlen=3)
+INFO:root:284: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:284: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:284: Started Research
+INFO:root:285: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:285: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:285: Started Research
+INFO:root:286: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:286: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:287: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:287: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:287: Worker stuck: u_9 - deque([(17, 16), (17, 16), (17, 16)], maxlen=3)
+INFO:root:287: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:287: Started Research
+INFO:root:288: Worker stuck: u_6 - deque([(17, 15), (17, 15), (17, 15)], maxlen=3)
+INFO:root:288: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:288: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:288: Started Research
+INFO:root:288: Started Research
+INFO:root:289: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:289: Worker stuck: u_10 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:289: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:289: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:289: Started Research
+INFO:root:289: Started Research
+INFO:root:289: Started Research
+INFO:root:289: Started Research
+INFO:root:290: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:290: Worker stuck: u_9 - deque([(17, 17), (17, 17), (17, 17)], maxlen=3)
+INFO:root:290: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:290: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:290: Started Research
+INFO:root:290: Started Research
+INFO:root:290: Started Research
+INFO:root:290: Started Research
+INFO:root:291: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:291: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:291: Started Research
+INFO:root:292: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:292: Worker stuck: u_7 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:292: Worker stuck: u_10 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:292: Worker stuck: u_11 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:292: Worker stuck: u_12 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:292: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:292: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:292: Worker stuck: u_37 - deque([(19, 16), (19, 16), (19, 16)], maxlen=3)
+INFO:root:292: Started Research
+INFO:root:293: Worker stuck: u_6 - deque([(18, 16), (18, 16), (18, 16)], maxlen=3)
+INFO:root:293: Worker stuck: u_10 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:293: Worker stuck: u_12 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:294: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:294: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:294: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:294: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:294: Worker stuck: u_33 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:294: Worker stuck: u_36 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:294: Worker stuck: u_38 - deque([(22, 15), (22, 15), (22, 15)], maxlen=3)
+INFO:root:294: Started Research
+INFO:root:295: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:295: Started Research
+INFO:root:296: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:296: Worker stuck: u_10 - deque([(19, 16), (19, 16), (19, 16)], maxlen=3)
+INFO:root:296: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:296: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:296: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:297: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:297: Worker stuck: u_33 - deque([(22, 14), (22, 14), (22, 14)], maxlen=3)
+INFO:root:297: Worker stuck: u_35 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:297: Worker stuck: u_36 - deque([(20, 16), (20, 16), (20, 16)], maxlen=3)
+INFO:root:297: Worker stuck: u_37 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:297: Started Research
+INFO:root:298: Worker stuck: u_6 - deque([(18, 16), (18, 16), (18, 16)], maxlen=3)
+INFO:root:298: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:298: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:298: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:298: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:298: Worker stuck: u_12 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:298: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:298: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:298: Worker stuck: u_36 - deque([(20, 16), (20, 16), (20, 16)], maxlen=3)
+INFO:root:298: Worker stuck: u_37 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:298: Started Research
+INFO:root:298: Started Research
+INFO:root:299: Worker stuck: u_6 - deque([(18, 16), (18, 16), (18, 16)], maxlen=3)
+INFO:root:299: Worker stuck: u_7 - deque([(19, 16), (19, 16), (19, 16)], maxlen=3)
+INFO:root:299: Worker stuck: u_10 - deque([(19, 17), (19, 17), (19, 17)], maxlen=3)
+INFO:root:299: Started Research
+INFO:root:299: Started Research
+INFO:root:299: Started Research
+INFO:root:299: Started Research
+INFO:root:300: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:300: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:300: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:300: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:300: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:300: Worker stuck: u_33 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:300: Worker stuck: u_35 - deque([(21, 13), (21, 13), (21, 13)], maxlen=3)
+INFO:root:300: Started Research
+INFO:root:300: Started Research
+INFO:root:300: Started Research
+INFO:root:300: Started Research
+INFO:root:301: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:301: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:301: Worker stuck: u_11 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:301: Worker stuck: u_12 - deque([(19, 13), (19, 13), (19, 13)], maxlen=3)
+INFO:root:301: Worker stuck: u_33 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:301: Worker stuck: u_37 - deque([(21, 15), (21, 15), (21, 15)], maxlen=3)
+INFO:root:301: Worker stuck: u_38 - deque([(22, 14), (22, 14), (22, 14)], maxlen=3)
+INFO:root:301: Started Research
+INFO:root:302: Worker stuck: u_6 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:302: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:302: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:302: Worker stuck: u_11 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:302: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:302: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:302: Worker stuck: u_33 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:302: Worker stuck: u_37 - deque([(21, 15), (21, 15), (21, 15)], maxlen=3)
+INFO:root:302: Started Research
+INFO:root:303: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:303: Worker stuck: u_9 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:303: Worker stuck: u_11 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:303: Worker stuck: u_18 - deque([(21, 13), (21, 13), (21, 13)], maxlen=3)
+INFO:root:303: Worker stuck: u_33 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:303: Worker stuck: u_35 - deque([(21, 12), (21, 12), (21, 12)], maxlen=3)
+INFO:root:303: Worker stuck: u_36 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:303: Worker stuck: u_37 - deque([(21, 15), (21, 15), (21, 15)], maxlen=3)
+INFO:root:304: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:304: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:304: Worker stuck: u_9 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:304: Worker stuck: u_11 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:304: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:304: Started Research
+INFO:root:305: Worker stuck: u_6 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:305: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:305: Worker stuck: u_8 - deque([(19, 13), (19, 13), (19, 13)], maxlen=3)
+INFO:root:305: Worker stuck: u_9 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:305: Worker stuck: u_11 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:305: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:305: Started Research
+INFO:root:306: Worker stuck: u_6 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:306: Worker stuck: u_8 - deque([(19, 13), (19, 13), (19, 13)], maxlen=3)
+INFO:root:306: Worker stuck: u_9 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:306: Worker stuck: u_10 - deque([(19, 16), (19, 16), (19, 16)], maxlen=3)
+INFO:root:306: Worker stuck: u_11 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:306: Worker stuck: u_12 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:306: Worker stuck: u_18 - deque([(22, 13), (22, 13), (22, 13)], maxlen=3)
+INFO:root:306: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:306: Worker stuck: u_33 - deque([(21, 15), (21, 15), (21, 15)], maxlen=3)
+INFO:root:306: Worker stuck: u_35 - deque([(21, 13), (21, 13), (21, 13)], maxlen=3)
+INFO:root:306: Worker stuck: u_36 - deque([(20, 13), (20, 13), (20, 13)], maxlen=3)
+INFO:root:306: Worker stuck: u_37 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:306: Worker stuck: u_38 - deque([(22, 14), (22, 14), (22, 14)], maxlen=3)
+INFO:root:307: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:307: Worker stuck: u_33 - deque([(21, 15), (21, 15), (21, 15)], maxlen=3)
+INFO:root:307: Worker stuck: u_36 - deque([(20, 13), (20, 13), (20, 13)], maxlen=3)
+INFO:root:307: Worker stuck: u_37 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:307: Worker stuck: u_38 - deque([(22, 14), (22, 14), (22, 14)], maxlen=3)
+INFO:root:307: Started Research
+INFO:root:308: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:308: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:308: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:308: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:308: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:308: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:308: Worker stuck: u_33 - deque([(21, 15), (21, 15), (21, 15)], maxlen=3)
+INFO:root:308: Worker stuck: u_37 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:308: Worker stuck: u_38 - deque([(22, 14), (22, 14), (22, 14)], maxlen=3)
+INFO:root:308: Started Research
+INFO:root:308: Started Research
+INFO:root:309: Worker stuck: u_6 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:309: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:309: Worker stuck: u_8 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:309: Worker stuck: u_9 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:309: Worker stuck: u_10 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:309: Worker stuck: u_11 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:309: Worker stuck: u_12 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:309: Worker stuck: u_37 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:309: Started Research
+INFO:root:309: Started Research
+INFO:root:309: Started Research
+INFO:root:309: Started Research
+INFO:root:310: Worker stuck: u_8 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:310: Worker stuck: u_9 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:310: Worker stuck: u_11 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:310: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:310: Built the city: c_2, fule 3455.0, size 15, en False
+INFO:root:310: Started Research
+INFO:root:310: Started Research
+INFO:root:310: Started Research
+INFO:root:310: Started Research
+INFO:root:311: Worker stuck: u_18 - deque([(22, 13), (22, 13), (22, 13)], maxlen=3)
+INFO:root:311: Created worker
+INFO:root:Found worker unaccounted for u_40
+INFO:root:Found worker w/o resource u_40
+INFO:root:312: Created worker
+INFO:root:Found worker unaccounted for u_41
+INFO:root:Found worker w/o resource u_41
+INFO:root:314: Worker stuck: u_8 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:314: Worker stuck: u_9 - deque([(17, 15), (17, 15), (17, 15)], maxlen=3)
+INFO:root:314: Worker stuck: u_11 - deque([(18, 13), (18, 13), (18, 13)], maxlen=3)
+INFO:root:314: Worker stuck: u_24 - deque([(20, 20), (20, 20), (20, 20)], maxlen=3)
+INFO:root:314: Worker stuck: u_39 - deque([(22, 6), (22, 6), (22, 6)], maxlen=3)
+INFO:root:314: Worker stuck: u_41 - deque([(20, 21), (20, 21)], maxlen=3)
+INFO:root:314: Created worker
+INFO:root:Found worker unaccounted for u_42
+INFO:root:Found worker w/o resource u_42
+INFO:root:315: Worker stuck: u_6 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:315: Worker stuck: u_7 - deque([(19, 19), (19, 19), (19, 19)], maxlen=3)
+INFO:root:315: Worker stuck: u_8 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:315: Worker stuck: u_9 - deque([(17, 15), (17, 15), (17, 15)], maxlen=3)
+INFO:root:315: Worker stuck: u_10 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:315: Worker stuck: u_12 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:315: Worker stuck: u_18 - deque([(21, 13), (21, 13), (21, 13)], maxlen=3)
+INFO:root:315: Created worker
+INFO:root:Found worker unaccounted for u_43
+INFO:root:Found worker w/o resource u_43
+INFO:root:317: Created worker
+INFO:root:Found worker unaccounted for u_44
+INFO:root:Found worker w/o resource u_44
+INFO:root:318: Worker stuck: u_11 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:318: Worker stuck: u_39 - deque([(22, 5), (22, 5), (22, 5)], maxlen=3)
+INFO:root:318: Created worker
+INFO:root:318: Created worker
+INFO:root:Found worker unaccounted for u_45
+INFO:root:Found worker unaccounted for u_46
+INFO:root:Found worker w/o resource u_45
+INFO:root:Found worker w/o resource u_46
+INFO:root:319: Worker stuck: u_6 - deque([(18, 16), (18, 16), (18, 16)], maxlen=3)
+INFO:root:319: Worker stuck: u_7 - deque([(19, 18), (19, 18), (19, 18)], maxlen=3)
+INFO:root:319: Worker stuck: u_8 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:319: Worker stuck: u_9 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:319: Worker stuck: u_10 - deque([(19, 16), (19, 16), (19, 16)], maxlen=3)
+INFO:root:319: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:319: Worker stuck: u_18 - deque([(20, 13), (20, 13), (20, 13)], maxlen=3)
+INFO:root:319: Created worker
+INFO:root:319: Started Research
+INFO:root:319: Started Research
+INFO:root:319: Started Research
+INFO:root:Found worker unaccounted for u_47
+INFO:root:Found worker w/o resource u_47
+INFO:root:320: Worker stuck: u_8 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:320: Worker stuck: u_9 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:320: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:320: Worker stuck: u_42 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:320: Worker stuck: u_43 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:320: Created worker
+INFO:root:320: Started Research
+INFO:root:320: Started Research
+INFO:root:320: Started Research
+INFO:root:Found worker unaccounted for u_48
+INFO:root:Found worker w/o resource u_48
+INFO:root:321: Started Research
+INFO:root:322: Worker stuck: u_11 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:322: Worker stuck: u_39 - deque([(22, 4), (22, 4), (22, 4)], maxlen=3)
+INFO:root:322: Started Research
+INFO:root:323: Worker stuck: u_6 - deque([(17, 16), (17, 16), (17, 16)], maxlen=3)
+INFO:root:323: Worker stuck: u_7 - deque([(19, 17), (19, 17), (19, 17)], maxlen=3)
+INFO:root:323: Worker stuck: u_10 - deque([(20, 16), (20, 16), (20, 16)], maxlen=3)
+INFO:root:323: Worker stuck: u_18 - deque([(21, 13), (21, 13), (21, 13)], maxlen=3)
+INFO:root:323: Worker stuck: u_45 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:324: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:324: Worker stuck: u_42 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:324: Worker stuck: u_43 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:324: Started Research
+INFO:root:325: Worker stuck: u_11 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:325: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:325: Worker stuck: u_43 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:325: Worker stuck: u_47 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:325: Started Research
+INFO:root:326: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:326: Worker stuck: u_11 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:326: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:326: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:326: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:327: Worker stuck: u_45 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:327: Started Research
+INFO:root:328: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:328: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:328: Worker stuck: u_42 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:328: Started Research
+INFO:root:328: Started Research
+INFO:root:329: Worker stuck: u_8 - deque([(18, 13), (18, 13), (18, 13)], maxlen=3)
+INFO:root:329: Worker stuck: u_9 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:329: Worker stuck: u_11 - deque([(17, 12), (17, 12), (17, 12)], maxlen=3)
+INFO:root:329: Worker stuck: u_12 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:329: Worker stuck: u_43 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:329: Worker stuck: u_47 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:329: Started Research
+INFO:root:329: Started Research
+INFO:root:329: Started Research
+INFO:root:329: Started Research
+INFO:root:330: Worker stuck: u_6 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:330: Worker stuck: u_7 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:330: Worker stuck: u_9 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:330: Worker stuck: u_10 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:330: Worker stuck: u_12 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:330: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:330: Worker stuck: u_43 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:330: Worker stuck: u_47 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:330: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:330: Started Research
+INFO:root:330: Started Research
+INFO:root:330: Started Research
+INFO:root:330: Started Research
+INFO:root:331: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:331: Started Research
+INFO:root:332: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:332: Worker stuck: u_11 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:332: Worker stuck: u_18 - deque([(21, 9), (21, 9), (21, 9)], maxlen=3)
+INFO:root:332: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:332: Worker stuck: u_42 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:332: Worker stuck: u_45 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:332: Started Research
+INFO:root:333: Worker stuck: u_6 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:333: Worker stuck: u_7 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:333: Worker stuck: u_9 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:333: Worker stuck: u_44 - deque([(15, 20), (15, 20), (15, 20)], maxlen=3)
+INFO:root:334: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:334: Started Research
+INFO:root:335: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:335: Worker stuck: u_11 - deque([(17, 12), (17, 12), (17, 12)], maxlen=3)
+INFO:root:335: Worker stuck: u_43 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:335: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:335: Started Research
+INFO:root:336: Worker stuck: u_7 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:336: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:336: Worker stuck: u_45 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:336: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:337: Worker stuck: u_7 - deque([(18, 15), (18, 15), (18, 15)], maxlen=3)
+INFO:root:337: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:337: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:337: Worker stuck: u_12 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:337: Worker stuck: u_42 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:337: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:337: Started Research
+INFO:root:338: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:338: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:338: Worker stuck: u_44 - deque([(15, 20), (15, 20), (15, 20)], maxlen=3)
+INFO:root:338: Started Research
+INFO:root:338: Started Research
+INFO:root:339: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:339: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:339: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:339: Started Research
+INFO:root:339: Started Research
+INFO:root:339: Started Research
+INFO:root:339: Started Research
+INFO:root:340: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:340: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:340: Worker stuck: u_43 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:340: Worker stuck: u_45 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:340: Started Research
+INFO:root:340: Started Research
+INFO:root:340: Started Research
+INFO:root:340: Started Research
+INFO:root:341: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:341: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:341: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:341: Worker stuck: u_10 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:341: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:341: Worker stuck: u_42 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:341: Worker stuck: u_45 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:341: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:341: Started Research
+INFO:root:342: Worker stuck: u_6 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:342: Worker stuck: u_7 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:342: Worker stuck: u_10 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:342: Worker stuck: u_11 - deque([(17, 13), (17, 13), (17, 13)], maxlen=3)
+INFO:root:342: Worker stuck: u_12 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:342: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:342: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:342: Worker stuck: u_42 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:342: Worker stuck: u_45 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:342: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:342: Started Research
+INFO:root:343: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:343: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:343: Worker stuck: u_10 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:343: Worker stuck: u_12 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:343: Worker stuck: u_44 - deque([(15, 20), (15, 20), (15, 20)], maxlen=3)
+INFO:root:343: Worker stuck: u_47 - deque([(16, 20), (16, 20), (16, 20)], maxlen=3)
+INFO:root:344: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:344: Worker stuck: u_10 - deque([(18, 14), (18, 14), (18, 14)], maxlen=3)
+INFO:root:344: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:344: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:344: Started Research
+INFO:root:345: Worker stuck: u_7 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:345: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:345: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:345: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:345: Started Research
+INFO:root:346: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:346: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:346: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:346: Worker stuck: u_42 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:346: Worker stuck: u_45 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:346: Worker stuck: u_48 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:347: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:347: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:347: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:347: Started Research
+INFO:root:348: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:348: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:348: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:348: Worker stuck: u_44 - deque([(15, 20), (15, 20), (15, 20)], maxlen=3)
+INFO:root:348: Worker stuck: u_47 - deque([(16, 20), (16, 20), (16, 20)], maxlen=3)
+INFO:root:348: Started Research
+INFO:root:348: Started Research
+INFO:root:349: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:349: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:349: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:349: Started Research
+INFO:root:349: Started Research
+INFO:root:349: Started Research
+INFO:root:349: Started Research
+INFO:root:350: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:350: Worker stuck: u_7 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:350: Worker stuck: u_9 - deque([(19, 19), (19, 19), (19, 19)], maxlen=3)
+INFO:root:350: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:350: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:350: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:350: Built the city: c_2, fule 2965.0, size 15, en False
+INFO:root:350: Started Research
+INFO:root:350: Started Research
+INFO:root:350: Started Research
+INFO:root:350: Started Research
+INFO:root:351: Worker stuck: u_6 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:351: Worker stuck: u_44 - deque([(14, 20), (14, 20), (14, 20)], maxlen=3)
+INFO:root:351: Worker stuck: u_47 - deque([(15, 20), (15, 20), (15, 20)], maxlen=3)
+INFO:root:351: Created worker
+INFO:root:Found worker unaccounted for u_49
+INFO:root:Found worker w/o resource u_49
+INFO:root:352: Created worker
+INFO:root:Found worker unaccounted for u_50
+INFO:root:Found worker w/o resource u_50
+INFO:root:354: Worker stuck: u_7 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:354: Worker stuck: u_9 - deque([(19, 18), (19, 18), (19, 18)], maxlen=3)
+INFO:root:354: Worker stuck: u_10 - deque([(16, 14), (16, 14), (16, 14)], maxlen=3)
+INFO:root:354: Worker stuck: u_11 - deque([(17, 14), (17, 14), (17, 14)], maxlen=3)
+INFO:root:354: Worker stuck: u_18 - deque([(22, 14), (22, 14), (22, 14)], maxlen=3)
+INFO:root:354: Worker stuck: u_39 - deque([(21, 18), (21, 18), (21, 18)], maxlen=3)
+INFO:root:354: Created worker
+INFO:root:Found worker unaccounted for u_51
+INFO:root:Found worker w/o resource u_51
+INFO:root:355: Worker stuck: u_6 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:355: Worker stuck: u_8 - deque([(19, 16), (19, 16), (19, 16)], maxlen=3)
+INFO:root:355: Worker stuck: u_12 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:355: Worker stuck: u_44 - deque([(13, 20), (13, 20), (13, 20)], maxlen=3)
+INFO:root:355: Worker stuck: u_47 - deque([(14, 20), (14, 20), (14, 20)], maxlen=3)
+INFO:root:355: Created worker
+INFO:root:Found worker unaccounted for u_52
+INFO:root:Found worker w/o resource u_52
+INFO:root:356: Worker stuck: u_8 - deque([(19, 16), (19, 16), (19, 16)], maxlen=3)
+INFO:root:356: Worker stuck: u_12 - deque([(19, 14), (19, 14), (19, 14)], maxlen=3)
+INFO:root:357: Created worker
+INFO:root:Found worker unaccounted for u_53
+INFO:root:Found worker w/o resource u_53
+INFO:root:358: Worker stuck: u_7 - deque([(21, 15), (21, 15), (21, 15)], maxlen=3)
+INFO:root:358: Worker stuck: u_9 - deque([(20, 18), (20, 18), (20, 18)], maxlen=3)
+INFO:root:358: Worker stuck: u_10 - deque([(16, 15), (16, 15), (16, 15)], maxlen=3)
+INFO:root:358: Worker stuck: u_11 - deque([(17, 15), (17, 15), (17, 15)], maxlen=3)
+INFO:root:358: Worker stuck: u_18 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:358: Worker stuck: u_39 - deque([(21, 19), (21, 19), (21, 19)], maxlen=3)
+INFO:root:358: Created worker
+INFO:root:358: Started Research
+INFO:root:Found worker unaccounted for u_54
+INFO:root:Found worker w/o resource u_54
+INFO:root:359: Worker stuck: u_6 - deque([(20, 15), (20, 15), (20, 15)], maxlen=3)
+INFO:root:359: Worker stuck: u_7 - deque([(21, 15), (21, 15), (21, 15)], maxlen=3)
+INFO:root:359: Worker stuck: u_18 - deque([(21, 14), (21, 14), (21, 14)], maxlen=3)
+INFO:root:359: Worker stuck: u_44 - deque([(14, 20), (14, 20), (14, 20)], maxlen=3)
+INFO:root:359: Worker stuck: u_47 - deque([(14, 21), (14, 21), (14, 21)], maxlen=3)
+INFO:root:359: Started Research
+INFO:root:359: Started Research
+INFO:root:359: Started Research
+INFO:root:359: Started Research
+INFO:root:360: Worker stuck: u_8 - deque([(19, 15), (19, 15), (19, 15)], maxlen=3)
+INFO:root:360: Worker stuck: u_12 - deque([(20, 14), (20, 14), (20, 14)], maxlen=3)
+INFO:root:360: Worker stuck: u_51 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:360: Worker stuck: u_52 - deque([(21, 20), (21, 20), (21, 20)], maxlen=3)
+INFO:root:360: Created worker
+INFO:root:360: Started Research
+INFO:root:360: Started Research
+INFO:root:360: Started Research

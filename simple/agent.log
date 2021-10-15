@@ -8439,3 +8439,2180 @@ INFO:root:dict_values([<lux.game_objects.City object at 0x0000023786B492B0>])
 INFO:root:[<lux.game_objects.CityTile object at 0x0000023786B49C10>, <lux.game_objects.CityTile object at 0x0000023786B49040>]
 INFO:root:dict_values([<lux.game_objects.City object at 0x0000023786B0EC70>])
 INFO:root:[<lux.game_objects.CityTile object at 0x0000023786B0E3D0>, <lux.game_objects.CityTile object at 0x0000023786B0EA90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A2E4C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A2E580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A1E7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A1EB80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A1E7F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A1E250>]
+INFO:root:build
+INFO:root:2: checking: <lux.game_map.Cell object at 0x000001B9F4A7FB80>
+INFO:root:2: checking: <lux.game_map.Cell object at 0x000001B9F4A889A0>
+INFO:root:2: checking: <lux.game_map.Cell object at 0x000001B9F4A7FA00>
+INFO:root:2: checking: <lux.game_map.Cell object at 0x000001B9F4A7E880>
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A86490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A86550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F47F80D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A110A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A1EBB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A1EEB0>]
+INFO:root:build
+INFO:root:5: checking: <lux.game_map.Cell object at 0x000001B9F4A50BB0>
+INFO:root:5: checking: <lux.game_map.Cell object at 0x000001B9F4A51D30>
+INFO:root:5: checking: <lux.game_map.Cell object at 0x000001B9F4A50A30>
+INFO:root:5: checking: <lux.game_map.Cell object at 0x000001B9F4A4E8B0>
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A8B4C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A8B580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A84F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A1EC10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A8E490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A8E550>]
+INFO:root:build
+INFO:root:8: checking: <lux.game_map.Cell object at 0x000001B9F4A79B80>
+INFO:root:8: checking: <lux.game_map.Cell object at 0x000001B9F4A7AD00>
+INFO:root:8: checking: <lux.game_map.Cell object at 0x000001B9F4A79A00>
+INFO:root:8: checking: <lux.game_map.Cell object at 0x000001B9F4A77880>
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A59D30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A59B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A59D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A59880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A81340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A81400>]
+INFO:root:build
+INFO:root:11: checking: <lux.game_map.Cell object at 0x000001B9F4A49BB0>
+INFO:root:11: checking: <lux.game_map.Cell object at 0x000001B9F4A4AD30>
+INFO:root:11: checking: <lux.game_map.Cell object at 0x000001B9F4A49A30>
+INFO:root:11: checking: <lux.game_map.Cell object at 0x000001B9F4A488B0>
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F47F8FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A11550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A59DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A59580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001B9F4A84910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001B9F4A84940>]
+INFO:root:build
+INFO:root:14: checking: <lux.game_map.Cell object at 0x000001B9F4A79B80>
+INFO:root:14: checking: <lux.game_map.Cell object at 0x000001B9F4A7AD00>
+INFO:root:14: checking: <lux.game_map.Cell object at 0x000001B9F4A79A00>
+INFO:root:14: checking: <lux.game_map.Cell object at 0x000001B9F4A77880>
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352296A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352295B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352296A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525FE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525FEE0>]
+INFO:root:build
+INFO:root:3: checking: <lux.game_map.Cell object at 0x0000028F3520BB80>
+INFO:root:3: Found: <lux.game_map.Cell object at 0x0000028F3520BB80>
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3520BA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3520BB20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525D9A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525DA60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35254A60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35254B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3520B2B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3520B130>]
+INFO:root:build
+INFO:root:7: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35252760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35252820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35252610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35252640>]
+INFO:root:build
+INFO:root:9: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35251A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35251AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE0D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE460>]
+INFO:root:build
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229A60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229730>, <lux.game_objects.CityTile object at 0x0000028F35229D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257100>, <lux.game_objects.CityTile object at 0x0000028F35257190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1460>, <lux.game_objects.CityTile object at 0x0000028F351E1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352514F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35251610>, <lux.game_objects.CityTile object at 0x0000028F35251670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35252A60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352529D0>, <lux.game_objects.CityTile object at 0x0000028F35252670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525D550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525D520>, <lux.game_objects.CityTile object at 0x0000028F3525DD60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257DC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257C70>, <lux.game_objects.CityTile object at 0x0000028F35257D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257250>, <lux.game_objects.CityTile object at 0x0000028F35257970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352290D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229970>, <lux.game_objects.CityTile object at 0x0000028F35229550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EECD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE2E0>, <lux.game_objects.CityTile object at 0x0000028F351EE190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525DDF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525DD30>, <lux.game_objects.CityTile object at 0x0000028F3525DF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352575E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257250>, <lux.game_objects.CityTile object at 0x0000028F35257340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE8E0>, <lux.game_objects.CityTile object at 0x0000028F351EEB80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3524F460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3524F520>, <lux.game_objects.CityTile object at 0x0000028F3524F4C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35258AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35258A30>, <lux.game_objects.CityTile object at 0x0000028F35258A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35251CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35251280>, <lux.game_objects.CityTile object at 0x0000028F35251340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229B50>, <lux.game_objects.CityTile object at 0x0000028F35229CA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525E1C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525E040>, <lux.game_objects.CityTile object at 0x0000028F3525E070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35247D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35247DC0>, <lux.game_objects.CityTile object at 0x0000028F35247D60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525D2B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525D1F0>, <lux.game_objects.CityTile object at 0x0000028F3525DAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE9A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE8E0>, <lux.game_objects.CityTile object at 0x0000028F351EE220>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35247B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35247070>, <lux.game_objects.CityTile object at 0x0000028F352470A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525E430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525ECA0>, <lux.game_objects.CityTile object at 0x0000028F3525E5B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35258820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352589A0>, <lux.game_objects.CityTile object at 0x0000028F35258910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352298B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229520>, <lux.game_objects.CityTile object at 0x0000028F352297F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE0D0>, <lux.game_objects.CityTile object at 0x0000028F351EE820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352424F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352586D0>, <lux.game_objects.CityTile object at 0x0000028F35258D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35208820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352088E0>, <lux.game_objects.CityTile object at 0x0000028F35208910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352585E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352581C0>, <lux.game_objects.CityTile object at 0x0000028F35258700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242520>, <lux.game_objects.CityTile object at 0x0000028F35242F40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEB20>, <lux.game_objects.CityTile object at 0x0000028F351EE520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35216E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35216F40>, <lux.game_objects.CityTile object at 0x0000028F35216EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352083D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35208490>, <lux.game_objects.CityTile object at 0x0000028F35208460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EEA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE2E0>, <lux.game_objects.CityTile object at 0x0000028F351EE700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352365B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35236670>, <lux.game_objects.CityTile object at 0x0000028F35236610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352340D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35234190>, <lux.game_objects.CityTile object at 0x0000028F352342E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1490>, <lux.game_objects.CityTile object at 0x0000028F351E10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352298B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229E80>, <lux.game_objects.CityTile object at 0x0000028F35229790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEA00>, <lux.game_objects.CityTile object at 0x0000028F351EEAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352360A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352360D0>, <lux.game_objects.CityTile object at 0x0000028F35236070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35213130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352131F0>, <lux.game_objects.CityTile object at 0x0000028F35213250>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34F62BE0>, <lux.game_objects.CityTile object at 0x0000028F34F62E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229A60>, <lux.game_objects.CityTile object at 0x0000028F35229910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35254D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352545E0>, <lux.game_objects.CityTile object at 0x0000028F35254670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242250>, <lux.game_objects.CityTile object at 0x0000028F35242D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE1F0>, <lux.game_objects.CityTile object at 0x0000028F351EE0D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35227D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35227E20>, <lux.game_objects.CityTile object at 0x0000028F35227F40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229DC0>, <lux.game_objects.CityTile object at 0x0000028F35229B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE880>, <lux.game_objects.CityTile object at 0x0000028F351EECD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242490>, <lux.game_objects.CityTile object at 0x0000028F35242E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35222160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35222220>, <lux.game_objects.CityTile object at 0x0000028F35222250>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3524FC70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3524FD30>, <lux.game_objects.CityTile object at 0x0000028F3524FD90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35258670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35258EE0>, <lux.game_objects.CityTile object at 0x0000028F35258A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3521F820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3521F8E0>, <lux.game_objects.CityTile object at 0x0000028F3521F8B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3521CF10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3521CFD0>, <lux.game_objects.CityTile object at 0x0000028F3521C340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35240BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35240CA0>, <lux.game_objects.CityTile object at 0x0000028F35240B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35235610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352356D0>, <lux.game_objects.CityTile object at 0x0000028F35235730>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242CD0>, <lux.game_objects.CityTile object at 0x0000028F35242E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3521F460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3521FCA0>, <lux.game_objects.CityTile object at 0x0000028F3521FD00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EEA90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE220>, <lux.game_objects.CityTile object at 0x0000028F351EE670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3521A250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3521A2B0>, <lux.game_objects.CityTile object at 0x0000028F3521A130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242BE0>, <lux.game_objects.CityTile object at 0x0000028F352426D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35220730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352207F0>, <lux.game_objects.CityTile object at 0x0000028F35220850>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3521A160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3521A1F0>, <lux.game_objects.CityTile object at 0x0000028F3521AF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35216F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35216EE0>, <lux.game_objects.CityTile object at 0x0000028F35216C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35204A60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35204B20>, <lux.game_objects.CityTile object at 0x0000028F35204B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352296A0>, <lux.game_objects.CityTile object at 0x0000028F35229250>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35258AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35203520>, <lux.game_objects.CityTile object at 0x0000028F352035B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35247AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35247BB0>, <lux.game_objects.CityTile object at 0x0000028F35247C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352429A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242EB0>, <lux.game_objects.CityTile object at 0x0000028F35242700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3523F4F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3523F5B0>, <lux.game_objects.CityTile object at 0x0000028F3523F5E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E17F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3523F700>, <lux.game_objects.CityTile object at 0x0000028F3523F6A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EEA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEB20>, <lux.game_objects.CityTile object at 0x0000028F351EE490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3522ED60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3522EE20>, <lux.game_objects.CityTile object at 0x0000028F3522EE50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229730>, <lux.game_objects.CityTile object at 0x0000028F352297F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EEB50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEB20>, <lux.game_objects.CityTile object at 0x0000028F351EE9D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3522ED60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3522EDC0>, <lux.game_objects.CityTile object at 0x0000028F3522EE50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352421F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352444F0>, <lux.game_objects.CityTile object at 0x0000028F35244520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352395B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35239430>, <lux.game_objects.CityTile object at 0x0000028F35239820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35224E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35224EE0>, <lux.game_objects.CityTile object at 0x0000028F35224F40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352429A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242820>, <lux.game_objects.CityTile object at 0x0000028F35242B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35239B50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352393D0>, <lux.game_objects.CityTile object at 0x0000028F35239970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352297C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352292E0>, <lux.game_objects.CityTile object at 0x0000028F352291F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3523CE80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3523CF40>, <lux.game_objects.CityTile object at 0x0000028F3523CFD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35219670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35219730>, <lux.game_objects.CityTile object at 0x0000028F35219850>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35219790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352197F0>, <lux.game_objects.CityTile object at 0x0000028F35219850>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352139A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35213A60>, <lux.game_objects.CityTile object at 0x0000028F35213A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35213D30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35213790>, <lux.game_objects.CityTile object at 0x0000028F352137C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3523C280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3523C1C0>, <lux.game_objects.CityTile object at 0x0000028F35242280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE790>, <lux.game_objects.CityTile object at 0x0000028F351EE3D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352292B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229E50>, <lux.game_objects.CityTile object at 0x0000028F35229A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35213B50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352137C0>, <lux.game_objects.CityTile object at 0x0000028F35213790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE6D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE730>, <lux.game_objects.CityTile object at 0x0000028F351EEFA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229820>, <lux.game_objects.CityTile object at 0x0000028F35229790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352426A0>, <lux.game_objects.CityTile object at 0x0000028F352425E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35227940>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352278E0>, <lux.game_objects.CityTile object at 0x0000028F352276A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3522CA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3522CAF0>, <lux.game_objects.CityTile object at 0x0000028F3522CB50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352426A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352425E0>, <lux.game_objects.CityTile object at 0x0000028F352423D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3521C7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3521C880>, <lux.game_objects.CityTile object at 0x0000028F3521C970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3521C370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3521C4C0>, <lux.game_objects.CityTile object at 0x0000028F3521C460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35235EB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35235A90>, <lux.game_objects.CityTile object at 0x0000028F35235C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352118B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34F62EE0>, <lux.game_objects.CityTile object at 0x0000028F34F62BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257070>, <lux.game_objects.CityTile object at 0x0000028F352570A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E15E0>, <lux.game_objects.CityTile object at 0x0000028F351E16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352299D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352292E0>, <lux.game_objects.CityTile object at 0x0000028F35229AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EEE80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEFA0>, <lux.game_objects.CityTile object at 0x0000028F351EED60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229EB0>, <lux.game_objects.CityTile object at 0x0000028F35229E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257AF0>, <lux.game_objects.CityTile object at 0x0000028F35257A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1490>, <lux.game_objects.CityTile object at 0x0000028F351E17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229730>, <lux.game_objects.CityTile object at 0x0000028F352297C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242130>, <lux.game_objects.CityTile object at 0x0000028F35242A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229D30>, <lux.game_objects.CityTile object at 0x0000028F35229C10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257640>, <lux.game_objects.CityTile object at 0x0000028F35257D60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352295B0>, <lux.game_objects.CityTile object at 0x0000028F352292E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE8E0>, <lux.game_objects.CityTile object at 0x0000028F351EE580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352290D0>, <lux.game_objects.CityTile object at 0x0000028F35229DF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352571F0>, <lux.game_objects.CityTile object at 0x0000028F35257F70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC82E0>, <lux.game_objects.CityTile object at 0x0000028F34FC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229190>, <lux.game_objects.CityTile object at 0x0000028F35229A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242EB0>, <lux.game_objects.CityTile object at 0x0000028F35242940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352296D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229070>, <lux.game_objects.CityTile object at 0x0000028F35229A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352575E0>, <lux.game_objects.CityTile object at 0x0000028F352570D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC85E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8130>, <lux.game_objects.CityTile object at 0x0000028F34FC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229040>, <lux.game_objects.CityTile object at 0x0000028F35229880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE310>, <lux.game_objects.CityTile object at 0x0000028F351EE3D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352292E0>, <lux.game_objects.CityTile object at 0x0000028F35229100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525D9D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525DA90>, <lux.game_objects.CityTile object at 0x0000028F3525DAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC84C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8460>, <lux.game_objects.CityTile object at 0x0000028F34FC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE400>, <lux.game_objects.CityTile object at 0x0000028F351EEBE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352425B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352423D0>, <lux.game_objects.CityTile object at 0x0000028F35242760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EEFA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEA90>, <lux.game_objects.CityTile object at 0x0000028F351EEBB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525D220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525D310>, <lux.game_objects.CityTile object at 0x0000028F3525D4F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229940>, <lux.game_objects.CityTile object at 0x0000028F35229820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC82E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE4C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE580>, <lux.game_objects.CityTile object at 0x0000028F351EED00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8C70>, <lux.game_objects.CityTile object at 0x0000028F34FC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352292B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229DC0>, <lux.game_objects.CityTile object at 0x0000028F352291F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352425E0>, <lux.game_objects.CityTile object at 0x0000028F35242640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE8E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE7F0>, <lux.game_objects.CityTile object at 0x0000028F351EE430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525D2E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525DCD0>, <lux.game_objects.CityTile object at 0x0000028F3525DEB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229040>, <lux.game_objects.CityTile object at 0x0000028F352290D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352423A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242700>, <lux.game_objects.CityTile object at 0x0000028F352424C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE610>, <lux.game_objects.CityTile object at 0x0000028F351EE3D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8C70>, <lux.game_objects.CityTile object at 0x0000028F34FC85E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352299D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229820>, <lux.game_objects.CityTile object at 0x0000028F352297C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352427F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242220>, <lux.game_objects.CityTile object at 0x0000028F35242DC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEA90>, <lux.game_objects.CityTile object at 0x0000028F351EE400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257D30>, <lux.game_objects.CityTile object at 0x0000028F35257D60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352299A0>, <lux.game_objects.CityTile object at 0x0000028F35229430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242FD0>, <lux.game_objects.CityTile object at 0x0000028F35242B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE8E0>, <lux.game_objects.CityTile object at 0x0000028F351EECA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC8670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229760>, <lux.game_objects.CityTile object at 0x0000028F35229A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242550>, <lux.game_objects.CityTile object at 0x0000028F35242940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEA30>, <lux.game_objects.CityTile object at 0x0000028F351EE490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352575B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35257700>, <lux.game_objects.CityTile object at 0x0000028F35257790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1970>, <lux.game_objects.CityTile object at 0x0000028F351E1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525D5E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525D160>, <lux.game_objects.CityTile object at 0x0000028F3525DBB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1490>, <lux.game_objects.CityTile object at 0x0000028F351E1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34F128B0>, <lux.game_objects.CityTile object at 0x0000028F34F128E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E18B0>, <lux.game_objects.CityTile object at 0x0000028F351E17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC84C0>, <lux.game_objects.CityTile object at 0x0000028F34FC8700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352579A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E17F0>, <lux.game_objects.CityTile object at 0x0000028F351E1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242A00>, <lux.game_objects.CityTile object at 0x0000028F35242D60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E18B0>, <lux.game_objects.CityTile object at 0x0000028F351E15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35251CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35251D60>, <lux.game_objects.CityTile object at 0x0000028F35251DC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E10A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8580>, <lux.game_objects.CityTile object at 0x0000028F34FC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525ADC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525AE80>, <lux.game_objects.CityTile object at 0x0000028F3525AF10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352575E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E15E0>, <lux.game_objects.CityTile object at 0x0000028F351E13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC8670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1430>, <lux.game_objects.CityTile object at 0x0000028F351E1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34F128B0>, <lux.game_objects.CityTile object at 0x0000028F34FC80D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E10A0>, <lux.game_objects.CityTile object at 0x0000028F351E16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242250>, <lux.game_objects.CityTile object at 0x0000028F35242610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E16D0>, <lux.game_objects.CityTile object at 0x0000028F351E1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35254970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35254A30>, <lux.game_objects.CityTile object at 0x0000028F35254A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC82E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525F640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525F700>, <lux.game_objects.CityTile object at 0x0000028F3525F760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8E50>, <lux.game_objects.CityTile object at 0x0000028F34FC80D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35254640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35254700>, <lux.game_objects.CityTile object at 0x0000028F35254760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352578E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1430>, <lux.game_objects.CityTile object at 0x0000028F351E16A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC8130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E16D0>, <lux.game_objects.CityTile object at 0x0000028F351E10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34F128E0>, <lux.game_objects.CityTile object at 0x0000028F34FC8C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1400>, <lux.game_objects.CityTile object at 0x0000028F351E1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352428B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35242490>, <lux.game_objects.CityTile object at 0x0000028F352427F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1970>, <lux.game_objects.CityTile object at 0x0000028F351E1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35254E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35254F10>, <lux.game_objects.CityTile object at 0x0000028F35254EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E10A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525DDC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525DE80>, <lux.game_objects.CityTile object at 0x0000028F3525DF10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8700>, <lux.game_objects.CityTile object at 0x0000028F34FC8C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35251DC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35251E80>, <lux.game_objects.CityTile object at 0x0000028F35251F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352578B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E16D0>, <lux.game_objects.CityTile object at 0x0000028F351E1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1970>, <lux.game_objects.CityTile object at 0x0000028F351E1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34F128B0>, <lux.game_objects.CityTile object at 0x0000028F34FC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1460>, <lux.game_objects.CityTile object at 0x0000028F351E10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35242D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352424F0>, <lux.game_objects.CityTile object at 0x0000028F352421C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35257280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E1490>, <lux.game_objects.CityTile object at 0x0000028F351E1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35258D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35258E20>, <lux.game_objects.CityTile object at 0x0000028F35258E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8D00>, <lux.game_objects.CityTile object at 0x0000028F34FC8E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352295E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229DC0>, <lux.game_objects.CityTile object at 0x0000028F35229580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8670>, <lux.game_objects.CityTile object at 0x0000028F34FC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EEE20>, <lux.game_objects.CityTile object at 0x0000028F351EE160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351E10A0>, <lux.game_objects.CityTile object at 0x0000028F351E16A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229B50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229CD0>, <lux.game_objects.CityTile object at 0x0000028F35229D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8E50>, <lux.game_objects.CityTile object at 0x0000028F34FC8700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EED30>, <lux.game_objects.CityTile object at 0x0000028F351EE580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8670>, <lux.game_objects.CityTile object at 0x0000028F34FC8E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229610>, <lux.game_objects.CityTile object at 0x0000028F35229760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E1D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC84C0>, <lux.game_objects.CityTile object at 0x0000028F34FC82E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EEF10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE370>, <lux.game_objects.CityTile object at 0x0000028F351EE550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC80D0>, <lux.game_objects.CityTile object at 0x0000028F34FC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229700>, <lux.game_objects.CityTile object at 0x0000028F35229070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E17F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8C70>, <lux.game_objects.CityTile object at 0x0000028F34FC8E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EEDC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE580>, <lux.game_objects.CityTile object at 0x0000028F351EECD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC85E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8700>, <lux.game_objects.CityTile object at 0x0000028F34FC8C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352292B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229EE0>, <lux.game_objects.CityTile object at 0x0000028F35229AC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E15E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8FD0>, <lux.game_objects.CityTile object at 0x0000028F34FC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE1C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE550>, <lux.game_objects.CityTile object at 0x0000028F351EEF40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC82E0>, <lux.game_objects.CityTile object at 0x0000028F34FC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352296A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229E80>, <lux.game_objects.CityTile object at 0x0000028F35229190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351E18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8670>, <lux.game_objects.CityTile object at 0x0000028F34FC8C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE2E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EECD0>, <lux.game_objects.CityTile object at 0x0000028F351EECA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34FC8580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34FC8E50>, <lux.game_objects.CityTile object at 0x0000028F34FC8670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229520>, <lux.game_objects.CityTile object at 0x0000028F35229BB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE9D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE370>, <lux.game_objects.CityTile object at 0x0000028F351EE790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352567C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35256850>, <lux.game_objects.CityTile object at 0x0000028F35256550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35259130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35259190>, <lux.game_objects.CityTile object at 0x0000028F352591C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3524DCD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3524DCA0>, <lux.game_objects.CityTile object at 0x0000028F3524DD00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525DA90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525D220>, <lux.game_objects.CityTile object at 0x0000028F3525D100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229D00>, <lux.game_objects.CityTile object at 0x0000028F35229C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35259100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352591C0>, <lux.game_objects.CityTile object at 0x0000028F35259070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F351EE700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F351EE7F0>, <lux.game_objects.CityTile object at 0x0000028F351EE1C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352295B0>, <lux.game_objects.CityTile object at 0x0000028F35229D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35256EB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35256190>, <lux.game_objects.CityTile object at 0x0000028F35256040>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3525D850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3525D6A0>, <lux.game_objects.CityTile object at 0x0000028F3525D970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F34F62BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F34F62EE0>, <lux.game_objects.CityTile object at 0x0000028F34F62E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229A60>, <lux.game_objects.CityTile object at 0x0000028F35229E20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F35229310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F35229970>, <lux.game_objects.CityTile object at 0x0000028F352296D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F3522E1F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F3522E280>, <lux.game_objects.CityTile object at 0x0000028F3522E310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x0000028F352567C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x0000028F352568B0>, <lux.game_objects.CityTile object at 0x0000028F35256CD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C58E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C58F40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEB50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE1F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE15E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>]
+INFO:root:build
+INFO:root:2: checking: <lux.game_map.Cell object at 0x000001DC91C39D00>
+INFO:root:2: Found: <lux.game_map.Cell object at 0x000001DC91C39D00>
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC80D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE10A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEF40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE4C0>]
+INFO:root:build
+INFO:root:5: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE10A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC84C0>]
+INFO:root:build
+INFO:root:7: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C39C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C39B50>]
+INFO:root:build
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29DC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29EB0>, <lux.game_objects.CityTile object at 0x000001DC91C29040>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE17F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1460>, <lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C39B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C39A30>, <lux.game_objects.CityTile object at 0x000001DC91C39730>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8FD0>, <lux.game_objects.CityTile object at 0x000001DC91BC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE4C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE460>, <lux.game_objects.CityTile object at 0x000001DC91BEE4F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29FA0>, <lux.game_objects.CityTile object at 0x000001DC91C29F70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C53FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C539D0>, <lux.game_objects.CityTile object at 0x000001DC91C53AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8E50>, <lux.game_objects.CityTile object at 0x000001DC91BC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1490>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29040>, <lux.game_objects.CityTile object at 0x000001DC91C299D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE400>, <lux.game_objects.CityTile object at 0x000001DC91BEEAC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C54EE0>, <lux.game_objects.CityTile object at 0x000001DC91C54D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEBB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE6A0>, <lux.game_objects.CityTile object at 0x000001DC91BEE940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5DD00>, <lux.game_objects.CityTile object at 0x000001DC91C5D730>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC84C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8E50>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5D610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5D2B0>, <lux.game_objects.CityTile object at 0x000001DC91962160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE6D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5AAF0>, <lux.game_objects.CityTile object at 0x000001DC91C5A6A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8460>, <lux.game_objects.CityTile object at 0x000001DC91BC80D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5D1F0>, <lux.game_objects.CityTile object at 0x000001DC91C5D250>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE8B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE7F0>, <lux.game_objects.CityTile object at 0x000001DC91BEEA00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8D00>, <lux.game_objects.CityTile object at 0x000001DC91BC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C4C040>, <lux.game_objects.CityTile object at 0x000001DC91C4C160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29F10>, <lux.game_objects.CityTile object at 0x000001DC91C29790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE2B0>, <lux.game_objects.CityTile object at 0x000001DC91BEE670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE15E0>, <lux.game_objects.CityTile object at 0x000001DC91BE10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5DCD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5D1C0>, <lux.game_objects.CityTile object at 0x000001DC91C5DBE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8580>, <lux.game_objects.CityTile object at 0x000001DC91BC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29FA0>, <lux.game_objects.CityTile object at 0x000001DC91C295B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE17F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC85E0>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5AA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5A820>, <lux.game_objects.CityTile object at 0x000001DC91C5A850>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC82E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8700>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE8E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE700>, <lux.game_objects.CityTile object at 0x000001DC91BEE7C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEF10>, <lux.game_objects.CityTile object at 0x000001DC91BEEF40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE10A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE15E0>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5CBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5C9D0>, <lux.game_objects.CityTile object at 0x000001DC91C5CA30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8C70>, <lux.game_objects.CityTile object at 0x000001DC91BC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C291F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C297C0>, <lux.game_objects.CityTile object at 0x000001DC91C29E20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C297F0>, <lux.game_objects.CityTile object at 0x000001DC91C29D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5CAF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8E50>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEAC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8130>, <lux.game_objects.CityTile object at 0x000001DC91BC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE5E0>, <lux.game_objects.CityTile object at 0x000001DC91BEE0D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE10A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5FCD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5FE20>, <lux.game_objects.CityTile object at 0x000001DC91C5FDF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC80D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8670>, <lux.game_objects.CityTile object at 0x000001DC91BC8E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C296D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29D30>, <lux.game_objects.CityTile object at 0x000001DC91C29C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC919128B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16A0>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5DAC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5DA00>, <lux.game_objects.CityTile object at 0x000001DC91C5DB50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE17F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEEE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE610>, <lux.game_objects.CityTile object at 0x000001DC91BEE460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEED90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEBE0>, <lux.game_objects.CityTile object at 0x000001DC91BEE670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8580>, <lux.game_objects.CityTile object at 0x000001DC91BC8700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29190>, <lux.game_objects.CityTile object at 0x000001DC91C29D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5DA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5D100>, <lux.game_objects.CityTile object at 0x000001DC91C5D610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE310>, <lux.game_objects.CityTile object at 0x000001DC91BEE7F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEEE0>, <lux.game_objects.CityTile object at 0x000001DC91BEEC10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8E50>, <lux.game_objects.CityTile object at 0x000001DC91BC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5DD90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5D760>, <lux.game_objects.CityTile object at 0x000001DC91C5D730>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE10A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29940>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29AF0>, <lux.game_objects.CityTile object at 0x000001DC91C29070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C297C0>, <lux.game_objects.CityTile object at 0x000001DC91C290D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC80D0>, <lux.game_objects.CityTile object at 0x000001DC91BC8E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51940>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8670>, <lux.game_objects.CityTile object at 0x000001DC91BC82E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C519A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51BB0>, <lux.game_objects.CityTile object at 0x000001DC91C51A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC82E0>, <lux.game_objects.CityTile object at 0x000001DC91BC85E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEFD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEE20>, <lux.game_objects.CityTile object at 0x000001DC91BEE280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51D30>, <lux.game_objects.CityTile object at 0x000001DC91C51A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC82E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC85E0>, <lux.game_objects.CityTile object at 0x000001DC91BC8C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEECA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1430>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51880>, <lux.game_objects.CityTile object at 0x000001DC91C51DF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8FD0>, <lux.game_objects.CityTile object at 0x000001DC91BC8130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEDC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE640>, <lux.game_objects.CityTile object at 0x000001DC91BEEA00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51EE0>, <lux.game_objects.CityTile object at 0x000001DC91C519A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8460>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEB80>, <lux.game_objects.CityTile object at 0x000001DC91BEEAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51F40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51610>, <lux.game_objects.CityTile object at 0x000001DC91C513D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8580>, <lux.game_objects.CityTile object at 0x000001DC91BC8E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51790>, <lux.game_objects.CityTile object at 0x000001DC91C519D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC85E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8130>, <lux.game_objects.CityTile object at 0x000001DC91BC82E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE6A0>, <lux.game_objects.CityTile object at 0x000001DC91BEE670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C517C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51160>, <lux.game_objects.CityTile object at 0x000001DC91C51220>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC82E0>, <lux.game_objects.CityTile object at 0x000001DC91BC8FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEDF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE1550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C515E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C516D0>, <lux.game_objects.CityTile object at 0x000001DC91C51C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC80D0>, <lux.game_objects.CityTile object at 0x000001DC91BC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEF70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE160>, <lux.game_objects.CityTile object at 0x000001DC91BEEC40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51970>, <lux.game_objects.CityTile object at 0x000001DC91C51B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC80D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC84C0>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1460>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51520>, <lux.game_objects.CityTile object at 0x000001DC91C51BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8700>, <lux.game_objects.CityTile object at 0x000001DC91BC8D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEE80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEED00>, <lux.game_objects.CityTile object at 0x000001DC91BEEB20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51C10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C517F0>, <lux.game_objects.CityTile object at 0x000001DC91C51940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8D00>, <lux.game_objects.CityTile object at 0x000001DC91BC8130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE3D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C515B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51FD0>, <lux.game_objects.CityTile object at 0x000001DC91C51760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8580>, <lux.game_objects.CityTile object at 0x000001DC91BC8C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEED60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE1F0>, <lux.game_objects.CityTile object at 0x000001DC91BEE8E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51CD0>, <lux.game_objects.CityTile object at 0x000001DC91C51370>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8C70>, <lux.game_objects.CityTile object at 0x000001DC91BC80D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51E80>, <lux.game_objects.CityTile object at 0x000001DC91C515E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC85E0>, <lux.game_objects.CityTile object at 0x000001DC91BC80D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51EE0>, <lux.game_objects.CityTile object at 0x000001DC91C51F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29C10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29940>, <lux.game_objects.CityTile object at 0x000001DC91C29310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51520>, <lux.game_objects.CityTile object at 0x000001DC91C51D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1D90>, <lux.game_objects.CityTile object at 0x000001DC91BE17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEF10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEEE0>, <lux.game_objects.CityTile object at 0x000001DC91BEEB20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C512E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51FD0>, <lux.game_objects.CityTile object at 0x000001DC91C51DF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8460>, <lux.game_objects.CityTile object at 0x000001DC91BC82E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51AF0>, <lux.game_objects.CityTile object at 0x000001DC91C51700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEA30>, <lux.game_objects.CityTile object at 0x000001DC91BEE1C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C517F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51070>, <lux.game_objects.CityTile object at 0x000001DC91C51F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE15E0>, <lux.game_objects.CityTile object at 0x000001DC91BE10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC84C0>, <lux.game_objects.CityTile object at 0x000001DC91BC8670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C512E0>, <lux.game_objects.CityTile object at 0x000001DC91C51DF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE15E0>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEDF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE5B0>, <lux.game_objects.CityTile object at 0x000001DC91BEE790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C518E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C510A0>, <lux.game_objects.CityTile object at 0x000001DC91C513D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE17F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1430>, <lux.game_objects.CityTile object at 0x000001DC91BE16A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8FD0>, <lux.game_objects.CityTile object at 0x000001DC91BC82E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C517F0>, <lux.game_objects.CityTile object at 0x000001DC91C51F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1430>, <lux.game_objects.CityTile object at 0x000001DC91BE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE6D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEA30>, <lux.game_objects.CityTile object at 0x000001DC91BEE400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51190>, <lux.game_objects.CityTile object at 0x000001DC91C51E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC80D0>, <lux.game_objects.CityTile object at 0x000001DC91BC8670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51070>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C518E0>, <lux.game_objects.CityTile object at 0x000001DC91C513D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE15E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE760>, <lux.game_objects.CityTile object at 0x000001DC91BEE8E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51B20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51400>, <lux.game_objects.CityTile object at 0x000001DC91C51DC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEED60>, <lux.game_objects.CityTile object at 0x000001DC91BEEA60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC85E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE13D0>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29550>, <lux.game_objects.CityTile object at 0x000001DC91C29280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC82E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1490>, <lux.game_objects.CityTile object at 0x000001DC91BE17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51F40>, <lux.game_objects.CityTile object at 0x000001DC91C51E20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1490>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE850>, <lux.game_objects.CityTile object at 0x000001DC91BEE9D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE15E0>, <lux.game_objects.CityTile object at 0x000001DC91BE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C299A0>, <lux.game_objects.CityTile object at 0x000001DC91C291F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC85E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C512B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51160>, <lux.game_objects.CityTile object at 0x000001DC91C516A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16A0>, <lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE850>, <lux.game_objects.CityTile object at 0x000001DC91BEE6D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C51D30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C51670>, <lux.game_objects.CityTile object at 0x000001DC91C516D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8E50>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC919128B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8700>, <lux.game_objects.CityTile object at 0x000001DC91BC8130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC80D0>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8FD0>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC919128B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8E50>, <lux.game_objects.CityTile object at 0x000001DC91BC85E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEC10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8D00>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1430>, <lux.game_objects.CityTile object at 0x000001DC91BE1460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8C70>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC919128B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1430>, <lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8FD0>, <lux.game_objects.CityTile object at 0x000001DC91BC8670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE3D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC82E0>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1490>, <lux.game_objects.CityTile object at 0x000001DC91BE1550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8130>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC919128B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1490>, <lux.game_objects.CityTile object at 0x000001DC91BE17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8C70>, <lux.game_objects.CityTile object at 0x000001DC91BC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE6A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8700>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1460>, <lux.game_objects.CityTile object at 0x000001DC91BE1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC85E0>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC919128B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1460>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8130>, <lux.game_objects.CityTile object at 0x000001DC91BC80D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1430>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8E50>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8670>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC919128B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC85E0>, <lux.game_objects.CityTile object at 0x000001DC91BC8D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1490>, <lux.game_objects.CityTile object at 0x000001DC91BE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8FD0>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC84C0>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC919128B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8670>, <lux.game_objects.CityTile object at 0x000001DC91BC82E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEC70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1460>, <lux.game_objects.CityTile object at 0x000001DC91BE10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8580>, <lux.game_objects.CityTile object at 0x000001DC91BC8700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91962EE0>, <lux.game_objects.CityTile object at 0x000001DC91BC80D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEAF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE940>, <lux.game_objects.CityTile object at 0x000001DC91BEE3D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1400>, <lux.game_objects.CityTile object at 0x000001DC91BE1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5F7F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5F970>, <lux.game_objects.CityTile object at 0x000001DC91C5FB80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29070>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29430>, <lux.game_objects.CityTile object at 0x000001DC91C29C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29100>, <lux.game_objects.CityTile object at 0x000001DC91C291F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEC40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE100>, <lux.game_objects.CityTile object at 0x000001DC91BEE130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE13D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5C7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5C790>, <lux.game_objects.CityTile object at 0x000001DC91C5C370>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1D90>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29B20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29A90>, <lux.game_objects.CityTile object at 0x000001DC91C296D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29250>, <lux.game_objects.CityTile object at 0x000001DC91C29430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91962EE0>, <lux.game_objects.CityTile object at 0x000001DC91BC8580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEF10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE790>, <lux.game_objects.CityTile object at 0x000001DC91BEE1C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1400>, <lux.game_objects.CityTile object at 0x000001DC91BE17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5AAF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5A5E0>, <lux.game_objects.CityTile object at 0x000001DC91C5A4C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1D90>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C293A0>, <lux.game_objects.CityTile object at 0x000001DC91C29BB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29A30>, <lux.game_objects.CityTile object at 0x000001DC91C29A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BC8460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE730>, <lux.game_objects.CityTile object at 0x000001DC91BEE640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5DD00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5D2B0>, <lux.game_objects.CityTile object at 0x000001DC91C5D310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29DC0>, <lux.game_objects.CityTile object at 0x000001DC91C29280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29D30>, <lux.game_objects.CityTile object at 0x000001DC91C293A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91962BE0>, <lux.game_objects.CityTile object at 0x000001DC91BC85E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEED90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE8E0>, <lux.game_objects.CityTile object at 0x000001DC91BEEFA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1D90>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C5FD00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C5F400>, <lux.game_objects.CityTile object at 0x000001DC91C5F460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29E80>, <lux.game_objects.CityTile object at 0x000001DC91C29880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C299D0>, <lux.game_objects.CityTile object at 0x000001DC91C29DC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BC84C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE160>, <lux.game_objects.CityTile object at 0x000001DC91BEEA60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59220>, <lux.game_objects.CityTile object at 0x000001DC91C59280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C297F0>, <lux.game_objects.CityTile object at 0x000001DC91C29E20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29CA0>, <lux.game_objects.CityTile object at 0x000001DC91C29E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BC8130>, <lux.game_objects.CityTile object at 0x000001DC91BC8700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59B80>, <lux.game_objects.CityTile object at 0x000001DC91C59910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE17F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE850>, <lux.game_objects.CityTile object at 0x000001DC91BEE5E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29190>, <lux.game_objects.CityTile object at 0x000001DC91C29C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC85E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1D90>, <lux.game_objects.CityTile object at 0x000001DC91BE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C593D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59430>, <lux.game_objects.CityTile object at 0x000001DC91C59520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1D90>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE8E0>, <lux.game_objects.CityTile object at 0x000001DC91BEE130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC80D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29C40>, <lux.game_objects.CityTile object at 0x000001DC91C291F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC82E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59DF0>, <lux.game_objects.CityTile object at 0x000001DC91C59FA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE15E0>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE190>, <lux.game_objects.CityTile object at 0x000001DC91BEE910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C290A0>, <lux.game_objects.CityTile object at 0x000001DC91C29C10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59340>, <lux.game_objects.CityTile object at 0x000001DC91C59A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE13D0>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEC10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE760>, <lux.game_objects.CityTile object at 0x000001DC91BEED90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE13D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29DC0>, <lux.game_objects.CityTile object at 0x000001DC91C298E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE15E0>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C594C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C599D0>, <lux.game_objects.CityTile object at 0x000001DC91C59BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16A0>, <lux.game_objects.CityTile object at 0x000001DC91BE17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE9A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEE50>, <lux.game_objects.CityTile object at 0x000001DC91BEE370>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1400>, <lux.game_objects.CityTile object at 0x000001DC91BE1460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29070>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29A60>, <lux.game_objects.CityTile object at 0x000001DC91C29D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE1970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59790>, <lux.game_objects.CityTile object at 0x000001DC91C59D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1D90>, <lux.game_objects.CityTile object at 0x000001DC91BE1400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE4C0>, <lux.game_objects.CityTile object at 0x000001DC91BEE8B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1A30>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29FA0>, <lux.game_objects.CityTile object at 0x000001DC91C29C10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC80D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C591C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59E20>, <lux.game_objects.CityTile object at 0x000001DC91C59940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE1A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEF70>, <lux.game_objects.CityTile object at 0x000001DC91BEED30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE13D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29700>, <lux.game_objects.CityTile object at 0x000001DC91C292E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC84C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59F70>, <lux.game_objects.CityTile object at 0x000001DC91C59520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1430>, <lux.game_objects.CityTile object at 0x000001DC91BE16D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEA60>, <lux.game_objects.CityTile object at 0x000001DC91BEE490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29CD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29850>, <lux.game_objects.CityTile object at 0x000001DC91C29C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC84C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59430>, <lux.game_objects.CityTile object at 0x000001DC91C59FA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE18B0>, <lux.game_objects.CityTile object at 0x000001DC91BE10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEC10>, <lux.game_objects.CityTile object at 0x000001DC91BEECD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1A30>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29A60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C293A0>, <lux.game_objects.CityTile object at 0x000001DC91C29E20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59070>, <lux.game_objects.CityTile object at 0x000001DC91C59940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE16A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEB80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEB50>, <lux.game_objects.CityTile object at 0x000001DC91BEEF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C298E0>, <lux.game_objects.CityTile object at 0x000001DC91C293D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59C10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59790>, <lux.game_objects.CityTile object at 0x000001DC91C59D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE17F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEC70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEEEE0>, <lux.game_objects.CityTile object at 0x000001DC91BEEC10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29A00>, <lux.game_objects.CityTile object at 0x000001DC91C297F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE13D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59940>, <lux.game_objects.CityTile object at 0x000001DC91C59970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1400>, <lux.game_objects.CityTile object at 0x000001DC91BE10A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEEBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE6D0>, <lux.game_objects.CityTile object at 0x000001DC91BEE100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE15E0>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29E20>, <lux.game_objects.CityTile object at 0x000001DC91C299A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8670>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59EB0>, <lux.game_objects.CityTile object at 0x000001DC91C59250>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1A30>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE220>, <lux.game_objects.CityTile object at 0x000001DC91BEEA00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE18B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1460>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29130>, <lux.game_objects.CityTile object at 0x000001DC91C29B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8700>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE17F0>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C592B0>, <lux.game_objects.CityTile object at 0x000001DC91C598B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE520>, <lux.game_objects.CityTile object at 0x000001DC91BEEEB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1490>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1550>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29F10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C292E0>, <lux.game_objects.CityTile object at 0x000001DC91C29400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC85E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE10A0>, <lux.game_objects.CityTile object at 0x000001DC91BE1490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59EE0>, <lux.game_objects.CityTile object at 0x000001DC91C59400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE1550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE610>, <lux.game_objects.CityTile object at 0x000001DC91BEE7F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE13D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29910>, <lux.game_objects.CityTile object at 0x000001DC91C29AC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC80D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1A30>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59490>, <lux.game_objects.CityTile object at 0x000001DC91C59100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE16A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1400>, <lux.game_objects.CityTile object at 0x000001DC91BE13D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE9A0>, <lux.game_objects.CityTile object at 0x000001DC91BEE520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC84C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE16A0>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C293A0>, <lux.game_objects.CityTile object at 0x000001DC91C29550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE1D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59280>, <lux.game_objects.CityTile object at 0x000001DC91C59970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1970>, <lux.game_objects.CityTile object at 0x000001DC91BE16A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE940>, <lux.game_objects.CityTile object at 0x000001DC91BEE4C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE1430>, <lux.game_objects.CityTile object at 0x000001DC91BE15E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C29FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C29910>, <lux.game_objects.CityTile object at 0x000001DC91C29970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BC8130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE13D0>, <lux.game_objects.CityTile object at 0x000001DC91BE18B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91C59CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91C59E50>, <lux.game_objects.CityTile object at 0x000001DC91C59550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BE1550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BE13D0>, <lux.game_objects.CityTile object at 0x000001DC91BE1430>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001DC91BEE4C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001DC91BEE2E0>, <lux.game_objects.CityTile object at 0x000001DC91BEEC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC57E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC57EE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29BB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEB20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE880>]
+INFO:root:build
+INFO:root:2: checking: <lux.game_map.Cell object at 0x000001A75FC2B460>
+INFO:root:2: checking: <lux.game_map.Cell object at 0x000001A75FC2C5E0>
+INFO:root:2: Found: <lux.game_map.Cell object at 0x000001A75FC2C5E0>
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC607C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC60880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC56CD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC56D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5EBB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5EC70>]
+INFO:root:build
+INFO:root:5: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBC7310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BEE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CB20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CBB0>]
+INFO:root:build
+INFO:root:8: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75F962BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE29D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC51DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC51EB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C3A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBC72B0>]
+INFO:root:build
+INFO:root:11: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC60160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC60520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE21F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE25E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54B20>]
+INFO:root:build
+INFO:root:14: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBC72B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE25E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5FDF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5FEB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B9A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2880>]
+INFO:root:build
+INFO:root:17: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC51C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC51A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE29D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC60220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC60820>]
+INFO:root:build
+INFO:root:20: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE25B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE27C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5E7C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5E430>]
+INFO:root:build
+INFO:root:23: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC59FA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75F962BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE27C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC58D90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC58E50>]
+INFO:root:build
+INFO:root:26: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE25E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE28B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC541C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5DF70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBC7310>]
+INFO:root:build
+INFO:root:29: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC4CEB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC4CF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE25B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC587F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC58B20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBC7310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE25B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5FF40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75F51E400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29B50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC291C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC57BB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC57CA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC3DAF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC3DBB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29D30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC39AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC39B80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC1D970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC1DA30>]
+INFO:root:build
+INFO:root:41: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29E20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5F310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5FB50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5F640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5F760>]
+INFO:root:build
+INFO:root:44: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC52A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC52B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC30C40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC30D00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CE80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C880>]
+INFO:root:build
+INFO:root:47: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC292B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE3A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE790>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC24CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC24D60>]
+INFO:root:build
+INFO:root:50: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29DC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEECD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CD90>]
+INFO:root:build
+INFO:root:53: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5FF70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5F0D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C0A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CE50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29940>]
+INFO:root:build
+INFO:root:56: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC17B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC17C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CA60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC298E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29910>]
+INFO:root:build
+INFO:root:59: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2AA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2AAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C7F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29BB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54D30>]
+INFO:root:build
+INFO:root:63: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C4F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CEE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC13880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC13940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC13220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC132E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC118E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC119A0>]
+INFO:root:build
+INFO:root:67: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC4CBB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC4CC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEFD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC41790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC41850>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC12CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC12D60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC35E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC35F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC548B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54940>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54BB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5FBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5FCA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC45F10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC45FA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CD00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CC10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29CA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29D30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC546A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC20370>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC204F0>]
+INFO:root:build
+INFO:root:81: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5F5E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5F6A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75F51E400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75F962160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29EB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CC40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CEB0>]
+INFO:root:build
+INFO:root:85: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEEE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEC10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29D30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C9D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CC10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75F962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE27C0>]
+INFO:root:build
+INFO:root:89: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBC7310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE28B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC33CD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC33D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBC76A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75F962E80>]
+INFO:root:build
+INFO:root:93: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC52FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC524C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE27C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2BBB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2BC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE21F0>]
+INFO:root:build
+INFO:root:97: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC52EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC523D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC60730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC60610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29130>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC599D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC59F40>]
+INFO:root:build
+INFO:root:101: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEECA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE9A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CF70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBC77C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBC78E0>]
+INFO:root:build
+INFO:root:105: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBC72B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE25E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC298E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE9D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE9A0>]
+INFO:root:build
+INFO:root:109: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C370>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC60FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC60520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2B50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE21F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C4F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE25E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2C10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEE80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEA60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CAC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE28B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC292E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC292B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEB50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE9D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CE50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C1C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC293D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEECA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEECD0>]
+INFO:root:build
+INFO:root:121: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEDC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C8E0>]
+INFO:root:build
+INFO:root:125: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEECD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEE20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CF70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29070>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC295E0>]
+INFO:root:build
+INFO:root:129: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE9D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEED60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CAF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CE50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29AF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEEE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEE50>]
+INFO:root:build
+INFO:root:133: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C040>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC298B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29FA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBC74C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C0D0>]
+INFO:root:build
+INFO:root:137: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE25B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE25E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29DF0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29460>]
+INFO:root:build
+INFO:root:141: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CA90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C220>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75F51E400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29EB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29F40>]
+INFO:root:build
+INFO:root:145: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C4F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C910>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CC70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C4C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CC40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CD00>]
+INFO:root:build
+INFO:root:149: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C2B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CAC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEA00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29DC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29E50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE760>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B3D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2C10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC52220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC522E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC56580>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC56640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CDF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC294F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29A00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C850>]
+INFO:root:build
+INFO:root:161: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC56F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC56190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE28B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE21F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC616A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC61160>]
+INFO:root:build
+INFO:root:165: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BA90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC60EB0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC60FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC566A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC56280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C490>]
+INFO:root:build
+INFO:root:169: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC298B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC299D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54E50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54FD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54F40>]
+INFO:root:build
+INFO:root:173: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5A550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5A610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEF10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEECD0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC59100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC1E100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC62640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62700>]
+INFO:root:build
+INFO:root:177: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29EE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29A00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5C0D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC584C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5F640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5F700>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEAC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEFD0>]
+INFO:root:build
+INFO:root:181: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC623D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC624C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BBB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75F962E80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CF10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C640>]
+INFO:root:build
+INFO:root:185: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC56340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC56400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC063A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC06460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC06220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC59C10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC293D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29DF0>]
+INFO:root:build
+INFO:root:189: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC56FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC56C40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC63340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC63400>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC63100>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC631C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29B80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC299D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5A400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC273A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC27310>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC56610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE9D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5F0A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5F160>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC621C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29340>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC61280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC61340>]
+INFO:root:build
+INFO:root:201: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC611F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC56A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC3F2E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC542E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62040>]
+INFO:root:build
+INFO:root:205: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29400>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC61760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC263D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC262E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5F3D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE940>]
+INFO:root:build
+INFO:root:209: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC35280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC35460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC629A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC14340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC619D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC61A90>]
+INFO:root:build
+INFO:root:213: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C5B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29D00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29F70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BEE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CD00>]
+INFO:root:build
+INFO:root:217: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC62520>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEAC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEF10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC639A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC63A60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5A1F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5A2B0>]
+INFO:root:build
+INFO:root:221: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC62D60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CAC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B490>]
+INFO:root:build
+INFO:root:225: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC61CD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC61070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC22730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC227F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29B20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BBE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B160>]
+INFO:root:build
+INFO:root:229: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BE50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC62820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC44550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC44610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEC70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEA00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BC10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BEE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC623D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62BE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29FA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CF10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC54760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5F730>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEFA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE3A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5C9D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5CA90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC62C10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC292B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29AC0>]
+INFO:root:build
+INFO:root:241: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC610A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC611F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEFD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC63190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC63C10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CFD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C160>]
+INFO:root:build
+INFO:root:245: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBC7640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC61C70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC626A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC54D90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC62C70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62790>]
+INFO:root:build
+INFO:root:249: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2C10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE2B50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE9D0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC61A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC617F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B8B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BD00>]
+INFO:root:build
+INFO:root:253: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC627C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC291F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29730>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C1F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B460>]
+INFO:root:build
+INFO:root:257: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC63820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC63A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC60130>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CB50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C280>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B070>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B3A0>]
+INFO:root:build
+INFO:root:261: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEF40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE5E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29BE0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29580>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C820>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BA90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BEB0>]
+INFO:root:build
+INFO:root:265: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5F970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5FA30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEE80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29070>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BF70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BEE0>]
+INFO:root:build
+INFO:root:269: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C2E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CAF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE6A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE7C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC297C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BA30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5AD60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5AE50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC623D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29E80>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BE50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE2610>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBE21F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C190>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C880>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC629D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC62A90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC60F70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC60A60>]
+INFO:root:build
+INFO:root:281: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEDF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CE50>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C7F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CF40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C550>]
+INFO:root:build
+INFO:root:285: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C2E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CCA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C520>]
+INFO:root:build
+INFO:root:289: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B220>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BDC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC294F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE4C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEDC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29DC0>]
+INFO:root:build
+INFO:root:293: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEFA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEF70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CB50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B850>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B670>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C0D0>]
+INFO:root:build
+INFO:root:297: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEED00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEEB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29A00>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE5E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C460>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C190>]
+INFO:root:build
+INFO:root:301: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEA60>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEA90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29040>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BC40>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29C10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29F70>]
+INFO:root:build
+INFO:root:305: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEF70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEBE0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C9A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C550>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BCD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BE50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29910>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC290A0>]
+INFO:root:build
+INFO:root:309: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE760>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEC40>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC61FD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CE20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B5B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29160>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29F10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BCA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BFA0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C820>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C5B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5D550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5D610>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BD30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BB20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5CA00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5CAC0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEFD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEB50>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CD90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C490>]
+INFO:root:build
+INFO:root:321: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B070>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B250>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CD30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CBB0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE5B0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE3A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC297F0>]
+INFO:root:build
+INFO:root:325: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE5E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE7C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C3A0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B9A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29FA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29E80>]
+INFO:root:build
+INFO:root:329: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC61A30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC61AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CFA0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE640>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEE20>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC297F0>]
+INFO:root:build
+INFO:root:333: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEEB80>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEF10>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CE20>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE5E0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE640>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CF10>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CF70>]
+INFO:root:build
+INFO:root:337: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B970>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29AC0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29100>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE430>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEEC70>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C250>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C880>]
+INFO:root:build
+INFO:root:341: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEECD0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE490>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC297F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC295E0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B550>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BD90>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C280>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CBE0>]
+INFO:root:build
+INFO:root:345: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5BC70>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B520>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29790>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29460>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE1C0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5F340>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CA30>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2CAC0>]
+INFO:root:build
+INFO:root:349: Navigating:
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEED90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE8B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29A90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29A30>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE3D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE5B0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2CD90>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C190>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBE29D0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5BD60>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29A00>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29220>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC29970>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29AF0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC2C4F0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC2C310>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC5B880>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC5B4F0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FBEE730>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FBEE7C0>]
+INFO:root:dict_values([<lux.game_objects.City object at 0x000001A75FC299A0>])
+INFO:root:[<lux.game_objects.CityTile object at 0x000001A75FC29AF0>]

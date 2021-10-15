@@ -5,6 +5,8 @@ import numpy as np
 from lux.constants import Constants
 from lux.game import Game
 from lux.game_map import Cell
+from collections import deque
+import random
 
 DIRECTIONS = Constants.DIRECTIONS
 game_state = None
@@ -12,6 +14,7 @@ logging.basicConfig(filename="agent.log", level=logging.INFO)
 build_location = None
 unit_to_city_dict = {}
 unit_to_resource_dict = {}
+worker_positions = {}
 
 
 def get_resource_tiles(game_state, height, width):
@@ -85,6 +88,7 @@ def agent(observation, configuration):
     global build_location
     global unit_to_resource_dict
     global unit_to_city_dict
+    global worker_positions
     ### Do not edit ###
     if observation["step"] == 0:
         game_state = Game()
@@ -101,6 +105,11 @@ def agent(observation, configuration):
     resource_tiles = get_resource_tiles(game_state, width, height)
     workers = [u for u in player.units if u.is_worker()]
     for w in workers:
+        if w.id in worker_positions:
+            worker_positions[w.id].append((w.pos.x, w.pos.y))
+        else:
+            worker_positions[w.id] = deque(maxlen=3)
+            worker_positions[w.id].append((w.pos.x, w.pos.y))
         if w.id not in unit_to_city_dict:
             logging.info(f"Found worker unaccounted for {w.id}")
             city_assignment = get_close_city(player, w)
@@ -119,80 +128,98 @@ def agent(observation, configuration):
     # logging.info(f"{cities}")
     # logging.info(f"{city_tiles}")
     build_city = False
-    if len(workers) / len(city_tiles) >= 0.75:
+    try:
+        if len(workers) / len(city_tiles) >= 0.75:
+            build_city = True
+    except:
         build_city = True
     # we iterate over all our units and do something with them
     for unit in player.units:
         if unit.is_worker() and unit.can_act():
-            if unit.get_cargo_space_left() > 0:
-                intended_resource = unit_to_resource_dict[unit.id]
-                cell = game_state.map.get_cell(intended_resource.pos.x, intended_resource.pos.y)
-                if cell.has_resource():
-                    actions.append(unit.move(unit.pos.direction_to(intended_resource.pos)))
-                else:
-                    intended_resource = get_close_resource(unit, resource_tiles, player)
-                    unit_to_resource_dict[unit.id] = intended_resource
-                    actions.append(unit.move(unit.pos.direction_to(intended_resource.pos)))
-            else:
-                if build_city:
-                    associated_city_id = unit_to_city_dict[unit.id].cityid
-                    unit_city = [c for c in cities if c.cityid == associated_city_id][0]
-                    unit_city_fuel = unit_city.fuel
-                    unit_city_size = len(unit_city.citytiles)
-                    enough_fuel = (unit_city_fuel / unit_city_size) > 300
-                    logging.info(
-                        f"{observation['step']}: Built the city: {associated_city_id}, fule {unit_city_fuel}, size {unit_city_size}, en {enough_fuel}")
-                    if enough_fuel:
-                        if build_location is None:
-                            empty_near = get_close_city(player, unit)
-                            build_location = find_empty_tile_near(empty_near, game_state, observation)
-                        if unit.pos == build_location.pos:
-                            action = unit.build_city()
-                            actions.append(action)
-                            build_city = False
-                            build_location = None
-                            logging.info(f"{observation['step']}: Built the city:")
+            try:
+                last_position = worker_positions[unit.id]
+                if len(last_position) >= 2:
+                    hm_position = set(last_position)
+                    if len(list(hm_position)) == 1:
+                        logging.info(f"{observation['step']}: Worker stuck: {unit.id} - {last_position}")
+                        actions.append(unit.move(random.choice(['n', 'e', 'w', 's'])))
+                        continue
 
+                if unit.get_cargo_space_left() > 0:
+                    intended_resource = unit_to_resource_dict[unit.id]
+                    cell = game_state.map.get_cell(intended_resource.pos.x, intended_resource.pos.y)
+                    if cell.has_resource():
+                        actions.append(unit.move(unit.pos.direction_to(intended_resource.pos)))
+                    else:
+                        intended_resource = get_close_resource(unit, resource_tiles, player)
+                        unit_to_resource_dict[unit.id] = intended_resource
+                        actions.append(unit.move(unit.pos.direction_to(intended_resource.pos)))
+                else:
+                    if build_city:
+                        try:
+                            associated_city_id = unit_to_city_dict[unit.id].cityid
+                            unit_city = [c for c in cities if c.cityid == associated_city_id][0]
+                            unit_city_fuel = unit_city.fuel
+                            unit_city_size = len(unit_city.citytiles)
+                            enough_fuel = (unit_city_fuel / unit_city_size) > 300
+                        except:
                             continue
-                        else:
-                            logging.info(f"{observation['step']}: Navigating:")
-                            # actions.append(unit.move(unit.pos.direction_to(build_location.pos)))
-                            dir_diff = (build_location.pos.x - unit.pos.x, build_location.pos.y - unit.pos.y)
-                            xdiff, ydiff = dir_diff
-                            if abs(ydiff) > abs(xdiff):
-                                check_tile = game_state.map.get_cell(unit.pos.x, unit.pos.y + np.sign(ydiff))
-                                if check_tile.citytile is None:
-                                    if np.sign(ydiff) == 1:
-                                        actions.append(unit.move('s'))
-                                    else:
-                                        actions.append(unit.move('n'))
-                                else:
-                                    if np.sign(xdiff) == 1:
-                                        actions.append(unit.move('e'))
-                                    else:
-                                        actions.append(unit.move('w'))
+                        logging.info(
+                            f"{observation['step']}: Built the city: {associated_city_id}, fule {unit_city_fuel}, size {unit_city_size}, en {enough_fuel}")
+                        if enough_fuel:
+                            if build_location is None:
+                                empty_near = get_close_city(player, unit)
+                                build_location = find_empty_tile_near(empty_near, game_state, observation)
+                            if unit.pos == build_location.pos:
+                                action = unit.build_city()
+                                actions.append(action)
+                                build_city = False
+                                build_location = None
+                                logging.info(f"{observation['step']}: Built the city:")
+
+                                continue
                             else:
-                                check_tile = game_state.map.get_cell(unit.pos.x + np.sign(xdiff), unit.pos.y)
-                                if check_tile.citytile is None:
-                                    if np.sign(xdiff) == 1:
-                                        actions.append(unit.move('e'))
+                                logging.info(f"{observation['step']}: Navigating:")
+                                # actions.append(unit.move(unit.pos.direction_to(build_location.pos)))
+                                dir_diff = (build_location.pos.x - unit.pos.x, build_location.pos.y - unit.pos.y)
+                                xdiff, ydiff = dir_diff
+                                if abs(ydiff) > abs(xdiff):
+                                    check_tile = game_state.map.get_cell(unit.pos.x, unit.pos.y + np.sign(ydiff))
+                                    if check_tile.citytile is None:
+                                        if np.sign(ydiff) == 1:
+                                            actions.append(unit.move('s'))
+                                        else:
+                                            actions.append(unit.move('n'))
                                     else:
-                                        actions.append(unit.move('w'))
+                                        if np.sign(xdiff) == 1:
+                                            actions.append(unit.move('e'))
+                                        else:
+                                            actions.append(unit.move('w'))
                                 else:
-                                    if np.sign(ydiff) == 1:
-                                        actions.append(unit.move('s'))
+                                    check_tile = game_state.map.get_cell(unit.pos.x + np.sign(xdiff), unit.pos.y)
+                                    if check_tile.citytile is None:
+                                        if np.sign(xdiff) == 1:
+                                            actions.append(unit.move('e'))
+                                        else:
+                                            actions.append(unit.move('w'))
                                     else:
-                                        actions.append(unit.move('n'))
-                            continue
-                    elif len(player.cities) > 0:
-                        if unit.id in unit_to_city_dict and unit_to_city_dict[unit.id] in city_tiles:
-                            move_dir = unit.pos.direction_to(unit_to_city_dict[unit.id].pos)
-                            actions.append(unit.move(move_dir))
-                        else:
-                            unit_to_city_dict[unit.id] = get_close_city(player, unit)
-                            move_dir = unit.pos.direction_to(unit_to_city_dict[unit.id].pos)
-                            actions.append(unit.move(move_dir))
+                                        if np.sign(ydiff) == 1:
+                                            actions.append(unit.move('s'))
+                                        else:
+                                            actions.append(unit.move('n'))
+                                continue
+
+                        elif len(player.cities) > 0:
+                            if unit.id in unit_to_city_dict and unit_to_city_dict[unit.id] in city_tiles:
+                                move_dir = unit.pos.direction_to(unit_to_city_dict[unit.id].pos)
+                                actions.append(unit.move(move_dir))
+                            else:
+                                unit_to_city_dict[unit.id] = get_close_city(player, unit)
+                                move_dir = unit.pos.direction_to(unit_to_city_dict[unit.id].pos)
+                                actions.append(unit.move(move_dir))
                 # if unit is a worker and there is no cargo space left, and we have cities, lets return to them
+            except Exception as e:
+                logging.info(f"{observation['step']}: Units error  {str(e)}")
 
     can_create = len(city_tiles) - len(workers)
     if len(city_tiles) > 0:
